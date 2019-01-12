@@ -54,15 +54,14 @@ class Handler extends ExceptionHandler
  
  
  
- 
-         /*if(isset($request) && !empty($request)){ 
+        if(isset($request) && !empty($request)){ 
 
 
                 
    
                  return redirect('/errorbooking');  
           }
-*/
+
 
     if($this->isHttpException($e))
         {
