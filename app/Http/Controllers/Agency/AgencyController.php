@@ -57,14 +57,6 @@ class AgencyController extends Controller
                 $agencyemailids = $mailEmail[0]->email;
             }
         }
-        echo $agencyemailids;
-        $to = $agencyemailids;
-        $subject = 'New B2B Booking Confirmation';
-        $message = 'gjkhfhjgfhfghkjgjhkjfghj';
-        $headers = "From: B2B project<admin@livebeds.com>\r\n";
-        $headers .= "MIME-Version: 1.0\r\n";
-        $headers .= "Content-Type: text/html; charset=UTF-8\r\n";
-        mail($to, $subject, $message, $headers);
 
         $getname = Route::getCurrentRoute()->getActionName();
 
@@ -199,15 +191,23 @@ class AgencyController extends Controller
     {
 
         // Validation
-        $validator = $this->validate($request, [
-            'name' => 'required|string|max:255',
-            'email' => 'required|email|unique:users',
-            'password' => 'required|string|min:1|confirmed',
+		
+		
+		
+		$users = DB::table('users')->where('email', '=', ''.$_POST['email'].'')->get();
 
-        ]);
-        // Validation
-
-        echo 'ok';
+		
+		
+		if(isset($users[0]->email) && !empty($users[0]->email)){
+			 echo 'The email has already been taken';
+		}else{
+		     echo 'ok';
+		}
+		
+		
+		exit;
+		
+        
     }
 
     /**
