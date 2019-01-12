@@ -1,0 +1,3 @@
+[07-Dec-2018 17:24:28 America/New_York] PHP Fatal error:  Interface 'Swift_Mailer_RecipientIterator' not found in /home/choizmfm/livebeds.com/demo/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer/ArrayRecipientIterator.php on line 16
+[08-Dec-2018 10:20:14 America/New_York] PHP Fatal error:  Interface 'Swift_Mailer_RecipientIterator' not found in /home/choizmfm/livebeds.com/demo/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer/ArrayRecipientIterator.php on line 16
+[08-Dec-2018 19:30:34 America/New_York] PHP Fatal error:  Interface 'Swift_Mailer_RecipientIterator' not found in /home/choizmfm/livebeds.com/demo/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer/ArrayRecipientIterator.php on line 16

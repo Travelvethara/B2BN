@@ -1,0 +1,8 @@
+[05-Dec-2018 22:10:26 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Command/HelpCommand.php on line 25
+[05-Dec-2018 22:10:32 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Command/ListCommand.php on line 26
+[06-Dec-2018 07:28:50 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Command/HelpCommand.php on line 25
+[06-Dec-2018 07:28:54 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Command/ListCommand.php on line 26
+[06-Dec-2018 22:48:02 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Command/HelpCommand.php on line 25
+[06-Dec-2018 22:48:12 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Command/ListCommand.php on line 26
+[07-Jan-2019 13:44:51 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Command/HelpCommand.php on line 25
+[07-Jan-2019 13:44:53 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Command/ListCommand.php on line 26

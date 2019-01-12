@@ -1,0 +1,6 @@
+[06-Dec-2018 11:32:50 America/New_York] PHP Fatal error:  Class 'Symfony\Component\VarDumper\Tests\Fixtures\NotLoadableClass' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/var-dumper/Tests/Fixtures/NotLoadableClass.php on line 5
+[06-Dec-2018 11:32:54 America/New_York] PHP Fatal error:  Class 'Twig\Template' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/var-dumper/Tests/Fixtures/Twig.php on line 4
+[07-Dec-2018 02:35:30 America/New_York] PHP Fatal error:  Class 'Symfony\Component\VarDumper\Tests\Fixtures\NotLoadableClass' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/var-dumper/Tests/Fixtures/NotLoadableClass.php on line 5
+[07-Dec-2018 02:36:09 America/New_York] PHP Fatal error:  Class 'Twig\Template' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/var-dumper/Tests/Fixtures/Twig.php on line 4
+[07-Dec-2018 21:29:07 America/New_York] PHP Fatal error:  Class 'Symfony\Component\VarDumper\Tests\Fixtures\NotLoadableClass' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/var-dumper/Tests/Fixtures/NotLoadableClass.php on line 5
+[07-Dec-2018 21:29:10 America/New_York] PHP Fatal error:  Class 'Twig\Template' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/var-dumper/Tests/Fixtures/Twig.php on line 4

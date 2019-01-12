@@ -1,0 +1,9 @@
+[06-Dec-2018 06:29:56 America/New_York] PHP Fatal error:  Interface 'Psy\VersionUpdater\Checker' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[06-Dec-2018 06:30:06 America/New_York] PHP Fatal error:  Class 'Psy\VersionUpdater\GitHubChecker' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 16
+[06-Dec-2018 06:30:14 America/New_York] PHP Fatal error:  Interface 'Psy\VersionUpdater\Checker' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[06-Dec-2018 21:50:29 America/New_York] PHP Fatal error:  Interface 'Psy\VersionUpdater\Checker' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[06-Dec-2018 21:50:38 America/New_York] PHP Fatal error:  Class 'Psy\VersionUpdater\GitHubChecker' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 16
+[06-Dec-2018 21:50:44 America/New_York] PHP Fatal error:  Interface 'Psy\VersionUpdater\Checker' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[07-Dec-2018 17:01:01 America/New_York] PHP Fatal error:  Interface 'Psy\VersionUpdater\Checker' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[07-Dec-2018 17:01:07 America/New_York] PHP Fatal error:  Class 'Psy\VersionUpdater\GitHubChecker' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 16
+[07-Dec-2018 17:01:12 America/New_York] PHP Fatal error:  Interface 'Psy\VersionUpdater\Checker' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19

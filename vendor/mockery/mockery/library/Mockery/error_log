@@ -1,0 +1,12 @@
+[06-Dec-2018 03:20:17 America/New_York] PHP Fatal error:  Interface 'Mockery\ExpectationInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php on line 23
+[06-Dec-2018 03:21:27 America/New_York] PHP Fatal error:  Interface 'Mockery\ExpectationInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/mockery/mockery/library/Mockery/Expectation.php on line 23
+[06-Dec-2018 03:23:17 America/New_York] PHP Fatal error:  Interface 'Mockery\MockInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/mockery/mockery/library/Mockery/Mock.php on line 25
+[06-Dec-2018 03:24:21 America/New_York] PHP Fatal error:  Class 'Mockery\Expectation' not found in /home/choizmfm/livebeds.com/demo/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php on line 5
+[06-Dec-2018 15:52:22 America/New_York] PHP Fatal error:  Interface 'Mockery\ExpectationInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php on line 23
+[06-Dec-2018 15:52:26 America/New_York] PHP Fatal error:  Interface 'Mockery\ExpectationInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/mockery/mockery/library/Mockery/Expectation.php on line 23
+[06-Dec-2018 15:52:32 America/New_York] PHP Fatal error:  Interface 'Mockery\MockInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/mockery/mockery/library/Mockery/Mock.php on line 25
+[06-Dec-2018 15:52:37 America/New_York] PHP Fatal error:  Class 'Mockery\Expectation' not found in /home/choizmfm/livebeds.com/demo/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php on line 5
+[07-Dec-2018 12:14:13 America/New_York] PHP Fatal error:  Interface 'Mockery\ExpectationInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php on line 23
+[07-Dec-2018 12:16:11 America/New_York] PHP Fatal error:  Interface 'Mockery\ExpectationInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/mockery/mockery/library/Mockery/Expectation.php on line 23
+[07-Dec-2018 12:20:31 America/New_York] PHP Fatal error:  Interface 'Mockery\MockInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/mockery/mockery/library/Mockery/Mock.php on line 25
+[07-Dec-2018 12:20:38 America/New_York] PHP Fatal error:  Class 'Mockery\Expectation' not found in /home/choizmfm/livebeds.com/demo/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php on line 5

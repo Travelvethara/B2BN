@@ -1,0 +1,3 @@
+[06-Dec-2018 05:12:03 America/New_York] PHP Fatal error:  Interface 'MockTestInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit-mock-objects/tests/_fixture/AbstractMockTestClass.php on line 2
+[06-Dec-2018 17:38:35 America/New_York] PHP Fatal error:  Interface 'MockTestInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit-mock-objects/tests/_fixture/AbstractMockTestClass.php on line 2
+[07-Dec-2018 16:22:42 America/New_York] PHP Fatal error:  Interface 'MockTestInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit-mock-objects/tests/_fixture/AbstractMockTestClass.php on line 2

@@ -1,0 +1,40 @@
+[05-Dec-2018 17:46:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/role/role.blade.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/role/role.blade.php on line 16
+[05-Dec-2018 17:46:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'URL' not found in /home/choizmfm/livebeds.com/demo/resources/views/role/rolelist.blade.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/role/rolelist.blade.php on line 154
+[05-Dec-2018 21:02:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/role/role.blade.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/role/role.blade.php on line 16
+[05-Dec-2018 21:02:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'URL' not found in /home/choizmfm/livebeds.com/demo/resources/views/role/rolelist.blade.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/role/rolelist.blade.php on line 154
+[06-Dec-2018 01:18:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/role/role.blade.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/role/role.blade.php on line 16
+[06-Dec-2018 01:18:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'URL' not found in /home/choizmfm/livebeds.com/demo/resources/views/role/rolelist.blade.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/role/rolelist.blade.php on line 154
+[06-Jan-2019 20:51:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/role/role.blade.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/role/role.blade.php on line 16
+[06-Jan-2019 20:51:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'URL' not found in /home/choizmfm/livebeds.com/demo/resources/views/role/rolelist.blade.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/role/rolelist.blade.php on line 154
+[07-Jan-2019 11:51:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/role/role.blade.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/role/role.blade.php on line 16
+[07-Jan-2019 11:51:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'URL' not found in /home/choizmfm/livebeds.com/demo/resources/views/role/rolelist.blade.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/role/rolelist.blade.php on line 154

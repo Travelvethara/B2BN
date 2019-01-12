@@ -1,0 +1,12 @@
+[06-Dec-2018 07:41:22 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Command/CommandTest.php on line 27
+[06-Dec-2018 07:41:26 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Command/HelpCommandTest.php on line 20
+[06-Dec-2018 07:41:32 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Command/ListCommandTest.php on line 18
+[06-Dec-2018 07:41:35 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Command/LockableTraitTest.php on line 20
+[06-Dec-2018 22:56:17 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Command/CommandTest.php on line 27
+[06-Dec-2018 22:56:26 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Command/HelpCommandTest.php on line 20
+[06-Dec-2018 22:56:32 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Command/ListCommandTest.php on line 18
+[06-Dec-2018 22:56:38 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Command/LockableTraitTest.php on line 20
+[07-Dec-2018 17:47:27 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Command/CommandTest.php on line 27
+[07-Dec-2018 17:47:30 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Command/HelpCommandTest.php on line 20
+[07-Dec-2018 17:47:34 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Command/ListCommandTest.php on line 18
+[07-Dec-2018 17:47:38 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Command/LockableTraitTest.php on line 20

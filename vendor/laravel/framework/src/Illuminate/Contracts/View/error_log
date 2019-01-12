@@ -1,0 +1,3 @@
+[07-Dec-2018 08:36:43 America/New_York] PHP Fatal error:  Interface 'Illuminate\Contracts\Support\Renderable' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Contracts/View/View.php on line 7
+[08-Dec-2018 02:16:11 America/New_York] PHP Fatal error:  Interface 'Illuminate\Contracts\Support\Renderable' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Contracts/View/View.php on line 7
+[08-Dec-2018 15:44:56 America/New_York] PHP Fatal error:  Interface 'Illuminate\Contracts\Support\Renderable' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Contracts/View/View.php on line 7

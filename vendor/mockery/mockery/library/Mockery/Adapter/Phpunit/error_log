@@ -1,0 +1,6 @@
+[07-Dec-2018 12:13:57 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/mockery/mockery/library/Mockery/Adapter/Phpunit/MockeryTestCase.php on line 7
+[07-Dec-2018 12:14:05 America/New_York] PHP Fatal error:  Interface 'PHPUnit_Framework_TestListener' not found in /home/choizmfm/livebeds.com/demo/vendor/mockery/mockery/library/Mockery/Adapter/Phpunit/TestListener.php on line 23
+[08-Dec-2018 05:31:35 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/mockery/mockery/library/Mockery/Adapter/Phpunit/MockeryTestCase.php on line 7
+[08-Dec-2018 05:31:40 America/New_York] PHP Fatal error:  Interface 'PHPUnit_Framework_TestListener' not found in /home/choizmfm/livebeds.com/demo/vendor/mockery/mockery/library/Mockery/Adapter/Phpunit/TestListener.php on line 23
+[08-Dec-2018 19:11:46 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/mockery/mockery/library/Mockery/Adapter/Phpunit/MockeryTestCase.php on line 7
+[08-Dec-2018 19:11:50 America/New_York] PHP Fatal error:  Interface 'PHPUnit_Framework_TestListener' not found in /home/choizmfm/livebeds.com/demo/vendor/mockery/mockery/library/Mockery/Adapter/Phpunit/TestListener.php on line 23

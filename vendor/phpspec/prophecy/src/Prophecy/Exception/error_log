@@ -1,0 +1,3 @@
+[06-Dec-2018 17:15:24 America/New_York] PHP Fatal error:  Interface 'Prophecy\Exception\Exception' not found in /home/choizmfm/livebeds.com/demo/vendor/phpspec/prophecy/src/Prophecy/Exception/InvalidArgumentException.php on line 14
+[07-Dec-2018 13:32:53 America/New_York] PHP Fatal error:  Interface 'Prophecy\Exception\Exception' not found in /home/choizmfm/livebeds.com/demo/vendor/phpspec/prophecy/src/Prophecy/Exception/InvalidArgumentException.php on line 14
+[08-Dec-2018 09:47:34 America/New_York] PHP Fatal error:  Interface 'Prophecy\Exception\Exception' not found in /home/choizmfm/livebeds.com/demo/vendor/phpspec/prophecy/src/Prophecy/Exception/InvalidArgumentException.php on line 14

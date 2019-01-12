@@ -1,0 +1,9 @@
+[06-Dec-2018 06:19:56 America/New_York] PHP Fatal error:  Interface 'Psy\Formatter\Formatter' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/src/Formatter/CodeFormatter.php on line 22
+[06-Dec-2018 06:20:06 America/New_York] PHP Fatal error:  Interface 'Psy\Formatter\Formatter' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/src/Formatter/DocblockFormatter.php on line 20
+[06-Dec-2018 06:20:26 America/New_York] PHP Fatal error:  Interface 'Psy\Formatter\Formatter' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/src/Formatter/SignatureFormatter.php on line 22
+[06-Dec-2018 22:02:00 America/New_York] PHP Fatal error:  Interface 'Psy\Formatter\Formatter' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/src/Formatter/CodeFormatter.php on line 22
+[06-Dec-2018 22:02:04 America/New_York] PHP Fatal error:  Interface 'Psy\Formatter\Formatter' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/src/Formatter/DocblockFormatter.php on line 20
+[06-Dec-2018 22:02:08 America/New_York] PHP Fatal error:  Interface 'Psy\Formatter\Formatter' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/src/Formatter/SignatureFormatter.php on line 22
+[07-Dec-2018 16:56:36 America/New_York] PHP Fatal error:  Interface 'Psy\Formatter\Formatter' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/src/Formatter/CodeFormatter.php on line 22
+[07-Dec-2018 16:56:45 America/New_York] PHP Fatal error:  Interface 'Psy\Formatter\Formatter' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/src/Formatter/DocblockFormatter.php on line 20
+[07-Dec-2018 16:56:49 America/New_York] PHP Fatal error:  Interface 'Psy\Formatter\Formatter' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/src/Formatter/SignatureFormatter.php on line 22

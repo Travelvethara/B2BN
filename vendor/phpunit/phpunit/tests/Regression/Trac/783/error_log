@@ -1,0 +1,12 @@
+[07-Dec-2018 16:32:13 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/tests/Regression/Trac/783/OneTest.php on line 5
+[07-Dec-2018 16:32:18 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/tests/Regression/Trac/783/OneTest.php on line 5
+[07-Dec-2018 16:32:22 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/tests/Regression/Trac/783/OneTest.php on line 5
+[07-Dec-2018 16:32:28 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/tests/Regression/Trac/783/TwoTest.php on line 5
+[08-Dec-2018 10:03:30 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/tests/Regression/Trac/783/OneTest.php on line 5
+[08-Dec-2018 10:03:34 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/tests/Regression/Trac/783/OneTest.php on line 5
+[08-Dec-2018 10:03:38 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/tests/Regression/Trac/783/OneTest.php on line 5
+[08-Dec-2018 10:03:41 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/tests/Regression/Trac/783/TwoTest.php on line 5
+[08-Dec-2018 19:25:33 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/tests/Regression/Trac/783/OneTest.php on line 5
+[08-Dec-2018 19:25:37 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/tests/Regression/Trac/783/OneTest.php on line 5
+[08-Dec-2018 19:25:41 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/tests/Regression/Trac/783/OneTest.php on line 5
+[08-Dec-2018 19:25:44 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/tests/Regression/Trac/783/TwoTest.php on line 5

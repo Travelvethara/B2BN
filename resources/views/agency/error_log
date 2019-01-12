@@ -1,0 +1,203 @@
+[05-Dec-2018 17:56:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'URL' not found in /home/choizmfm/livebeds.com/demo/resources/views/agency/agency.blade.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/agency/agency.blade.php on line 57
+[05-Dec-2018 17:56:33 America/New_York] PHP Notice:  Undefined variable: agency_booking_detail in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyBookingList.blade.php on line 127
+[05-Dec-2018 17:56:33 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyBookingList.blade.php on line 127
+[05-Dec-2018 17:56:33 America/New_York] PHP Notice:  Undefined variable: agency_booking_detail in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyBookingList.blade.php on line 130
+[05-Dec-2018 17:56:33 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyBookingList.blade.php on line 130
+[05-Dec-2018 17:56:33 America/New_York] PHP Notice:  Undefined variable: agency_booking_detail in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyBookingList.blade.php on line 137
+[05-Dec-2018 17:56:33 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyBookingList.blade.php on line 137
+[05-Dec-2018 17:56:33 America/New_York] PHP Notice:  Undefined variable: agency_booking_detail in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyBookingList.blade.php on line 143
+[05-Dec-2018 17:56:33 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyBookingList.blade.php on line 143
+[05-Dec-2018 17:56:33 America/New_York] PHP Notice:  Undefined variable: agency_booking_detail in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyBookingList.blade.php on line 169
+[05-Dec-2018 17:56:33 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyBookingList.blade.php on line 169
+[05-Dec-2018 17:56:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyBookingList.blade.php:284
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyBookingList.blade.php on line 284
+[05-Dec-2018 17:56:37 America/New_York] PHP Notice:  Undefined variable: agency_booking_detail in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyCancelledBookingList.blade.php on line 143
+[05-Dec-2018 17:56:37 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyCancelledBookingList.blade.php on line 143
+[05-Dec-2018 17:56:37 America/New_York] PHP Notice:  Undefined variable: agency_booking_detail in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyCancelledBookingList.blade.php on line 148
+[05-Dec-2018 17:56:37 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyCancelledBookingList.blade.php on line 148
+[05-Dec-2018 17:56:37 America/New_York] PHP Notice:  Undefined variable: agency_booking_detail in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyCancelledBookingList.blade.php on line 173
+[05-Dec-2018 17:56:37 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyCancelledBookingList.blade.php on line 173
+[05-Dec-2018 17:56:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyCancelledBookingList.blade.php:193
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyCancelledBookingList.blade.php on line 193
+[05-Dec-2018 17:56:41 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyList.blade.php on line 119
+[05-Dec-2018 17:56:41 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyList.blade.php on line 124
+[05-Dec-2018 17:56:41 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyList.blade.php on line 131
+[05-Dec-2018 17:56:41 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyList.blade.php on line 139
+[05-Dec-2018 17:56:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyList.blade.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyList.blade.php on line 170
+[05-Dec-2018 17:56:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyLists.blade.php:147
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyLists.blade.php on line 147
+[05-Dec-2018 17:56:50 America/New_York] PHP Notice:  Undefined variable: agency_booking_detail in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 142
+[05-Dec-2018 17:56:50 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 142
+[05-Dec-2018 17:56:50 America/New_York] PHP Notice:  Undefined variable: agency_booking_detail in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 142
+[05-Dec-2018 17:56:50 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 142
+[05-Dec-2018 17:56:50 America/New_York] PHP Notice:  Undefined variable: agency_booking_detail in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 142
+[05-Dec-2018 17:56:50 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 142
+[05-Dec-2018 17:56:50 America/New_York] PHP Notice:  Undefined variable: agency_booking_detail in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 146
+[05-Dec-2018 17:56:50 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 146
+[05-Dec-2018 17:56:50 America/New_York] PHP Notice:  Undefined variable: agency_booking_detail in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 149
+[05-Dec-2018 17:56:50 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 149
+[05-Dec-2018 17:56:50 America/New_York] PHP Notice:  Undefined variable: agency_booking_detail in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 154
+[05-Dec-2018 17:56:50 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 154
+[05-Dec-2018 17:56:50 America/New_York] PHP Notice:  Undefined variable: agency_booking_detail in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 179
+[05-Dec-2018 17:56:50 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 179
+[05-Dec-2018 17:56:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 199
+[05-Dec-2018 17:56:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/agency/register.blade.php:158
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/agency/register.blade.php on line 158
+[05-Dec-2018 17:56:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/agency/viewagency.blade.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/agency/viewagency.blade.php on line 62
+[05-Dec-2018 20:43:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'URL' not found in /home/choizmfm/livebeds.com/demo/resources/views/agency/agency.blade.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/agency/agency.blade.php on line 57
+[05-Dec-2018 20:43:10 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyList.blade.php on line 119
+[05-Dec-2018 20:43:10 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyList.blade.php on line 124
+[05-Dec-2018 20:43:10 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyList.blade.php on line 131
+[05-Dec-2018 20:43:10 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyList.blade.php on line 139
+[05-Dec-2018 20:43:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyList.blade.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyList.blade.php on line 170
+[05-Dec-2018 20:43:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyLists.blade.php:147
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyLists.blade.php on line 147
+[05-Dec-2018 20:43:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/agency/viewagency.blade.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/agency/viewagency.blade.php on line 62
+[06-Dec-2018 01:10:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'URL' not found in /home/choizmfm/livebeds.com/demo/resources/views/agency/agency.blade.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/agency/agency.blade.php on line 57
+[06-Dec-2018 01:10:35 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyList.blade.php on line 119
+[06-Dec-2018 01:10:35 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyList.blade.php on line 124
+[06-Dec-2018 01:10:35 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyList.blade.php on line 131
+[06-Dec-2018 01:10:35 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyList.blade.php on line 139
+[06-Dec-2018 01:10:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyList.blade.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyList.blade.php on line 170
+[06-Dec-2018 01:11:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyLists.blade.php:147
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyLists.blade.php on line 147
+[06-Dec-2018 01:11:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/agency/viewagency.blade.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/agency/viewagency.blade.php on line 62
+[06-Jan-2019 20:44:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'URL' not found in /home/choizmfm/livebeds.com/demo/resources/views/agency/agency.blade.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/agency/agency.blade.php on line 57
+[06-Jan-2019 20:45:02 America/New_York] PHP Notice:  Undefined variable: agency_booking_detail in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyBookingList.blade.php on line 127
+[06-Jan-2019 20:45:02 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyBookingList.blade.php on line 127
+[06-Jan-2019 20:45:02 America/New_York] PHP Notice:  Undefined variable: agency_booking_detail in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyBookingList.blade.php on line 130
+[06-Jan-2019 20:45:02 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyBookingList.blade.php on line 130
+[06-Jan-2019 20:45:02 America/New_York] PHP Notice:  Undefined variable: agency_booking_detail in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyBookingList.blade.php on line 137
+[06-Jan-2019 20:45:02 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyBookingList.blade.php on line 137
+[06-Jan-2019 20:45:02 America/New_York] PHP Notice:  Undefined variable: agency_booking_detail in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyBookingList.blade.php on line 143
+[06-Jan-2019 20:45:02 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyBookingList.blade.php on line 143
+[06-Jan-2019 20:45:02 America/New_York] PHP Notice:  Undefined variable: agency_booking_detail in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyBookingList.blade.php on line 169
+[06-Jan-2019 20:45:02 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyBookingList.blade.php on line 169
+[06-Jan-2019 20:45:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyBookingList.blade.php:284
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyBookingList.blade.php on line 284
+[06-Jan-2019 20:45:05 America/New_York] PHP Notice:  Undefined variable: agency_booking_detail in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyCancelledBookingList.blade.php on line 121
+[06-Jan-2019 20:45:05 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyCancelledBookingList.blade.php on line 121
+[06-Jan-2019 20:45:05 America/New_York] PHP Notice:  Undefined variable: agency_booking_detail in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyCancelledBookingList.blade.php on line 131
+[06-Jan-2019 20:45:05 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyCancelledBookingList.blade.php on line 131
+[06-Jan-2019 20:45:05 America/New_York] PHP Notice:  Undefined variable: agency_booking_detail in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyCancelledBookingList.blade.php on line 136
+[06-Jan-2019 20:45:05 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyCancelledBookingList.blade.php on line 136
+[06-Jan-2019 20:45:05 America/New_York] PHP Notice:  Undefined variable: agency_booking_detail in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyCancelledBookingList.blade.php on line 161
+[06-Jan-2019 20:45:05 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyCancelledBookingList.blade.php on line 161
+[06-Jan-2019 20:45:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyCancelledBookingList.blade.php:181
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyCancelledBookingList.blade.php on line 181
+[06-Jan-2019 20:45:08 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyList.blade.php on line 119
+[06-Jan-2019 20:45:08 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyList.blade.php on line 124
+[06-Jan-2019 20:45:08 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyList.blade.php on line 131
+[06-Jan-2019 20:45:08 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyList.blade.php on line 139
+[06-Jan-2019 20:45:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyList.blade.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyList.blade.php on line 170
+[06-Jan-2019 20:45:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyLists.blade.php:147
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyLists.blade.php on line 147
+[06-Jan-2019 20:45:12 America/New_York] PHP Notice:  Undefined variable: agency_booking_detail in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 152
+[06-Jan-2019 20:45:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 152
+[06-Jan-2019 20:45:12 America/New_York] PHP Notice:  Undefined variable: agency_booking_detail in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 156
+[06-Jan-2019 20:45:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 156
+[06-Jan-2019 20:45:12 America/New_York] PHP Notice:  Undefined variable: agency_booking_detail in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 156
+[06-Jan-2019 20:45:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 156
+[06-Jan-2019 20:45:12 America/New_York] PHP Notice:  Undefined variable: agency_booking_detail in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 166
+[06-Jan-2019 20:45:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 166
+[06-Jan-2019 20:45:12 America/New_York] PHP Notice:  Undefined variable: agency_booking_detail in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 166
+[06-Jan-2019 20:45:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 166
+[06-Jan-2019 20:45:12 America/New_York] PHP Notice:  Undefined variable: agency_booking_detail in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 166
+[06-Jan-2019 20:45:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 166
+[06-Jan-2019 20:45:12 America/New_York] PHP Notice:  Undefined variable: agency_booking_detail in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 170
+[06-Jan-2019 20:45:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 170
+[06-Jan-2019 20:45:12 America/New_York] PHP Notice:  Undefined variable: agency_booking_detail in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 173
+[06-Jan-2019 20:45:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 173
+[06-Jan-2019 20:45:12 America/New_York] PHP Notice:  Undefined variable: agency_booking_detail in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 178
+[06-Jan-2019 20:45:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 178
+[06-Jan-2019 20:45:12 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 182
+[06-Jan-2019 20:45:12 America/New_York] PHP Notice:  Undefined variable: agency_booking_detail in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 184
+[06-Jan-2019 20:45:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 184
+[06-Jan-2019 20:45:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'URL' not found in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyUnBookingList.blade.php on line 210
+[06-Jan-2019 20:45:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/agency/register.blade.php:158
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/agency/register.blade.php on line 158
+[06-Jan-2019 20:45:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/agency/viewagency.blade.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/agency/viewagency.blade.php on line 62
+[07-Jan-2019 11:44:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'URL' not found in /home/choizmfm/livebeds.com/demo/resources/views/agency/agency.blade.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/agency/agency.blade.php on line 57
+[07-Jan-2019 11:44:47 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyList.blade.php on line 119
+[07-Jan-2019 11:44:47 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyList.blade.php on line 124
+[07-Jan-2019 11:44:47 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyList.blade.php on line 131
+[07-Jan-2019 11:44:47 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyList.blade.php on line 139
+[07-Jan-2019 11:44:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyList.blade.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyList.blade.php on line 170
+[07-Jan-2019 11:44:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyLists.blade.php:124
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/agency/agencyLists.blade.php on line 124
+[07-Jan-2019 11:44:54 America/New_York] PHP Notice:  Undefined variable: agency in /home/choizmfm/livebeds.com/demo/resources/views/agency/viewagency.blade.php on line 46
+[07-Jan-2019 11:44:54 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/agency/viewagency.blade.php on line 46
+[07-Jan-2019 11:44:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/agency/viewagency.blade.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/agency/viewagency.blade.php on line 59

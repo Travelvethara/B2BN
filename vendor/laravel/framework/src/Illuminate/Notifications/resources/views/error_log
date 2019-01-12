@@ -1,0 +1,2 @@
+[08-Dec-2018 02:53:23 America/New_York] PHP Notice:  Undefined variable: level in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Notifications/resources/views/email.blade.php on line 23
+[08-Dec-2018 02:53:23 America/New_York] PHP Notice:  Undefined variable: level in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Notifications/resources/views/email.blade.php on line 26

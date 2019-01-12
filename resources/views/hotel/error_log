@@ -1,0 +1,381 @@
+[05-Dec-2018 17:59:27 America/New_York] PHP Notice:  Undefined variable: vouched_booking in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 13
+[05-Dec-2018 17:59:27 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 13
+[05-Dec-2018 17:59:27 America/New_York] PHP Notice:  Undefined variable: vouched_booking in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 34
+[05-Dec-2018 17:59:27 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 34
+[05-Dec-2018 17:59:27 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 34
+[05-Dec-2018 17:59:27 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 34
+[05-Dec-2018 17:59:27 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 34
+[05-Dec-2018 17:59:27 America/New_York] PHP Notice:  Undefined variable: vouched_booking in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 36
+[05-Dec-2018 17:59:27 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 36
+[05-Dec-2018 17:59:27 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 36
+[05-Dec-2018 17:59:27 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 36
+[05-Dec-2018 17:59:27 America/New_York] PHP Notice:  Undefined variable: vouched_booking in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 37
+[05-Dec-2018 17:59:27 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 37
+[05-Dec-2018 17:59:27 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 45
+[05-Dec-2018 17:59:27 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 45
+[05-Dec-2018 17:59:27 America/New_York] PHP Notice:  Undefined variable: vouched_booking in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 53
+[05-Dec-2018 17:59:27 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 53
+[05-Dec-2018 17:59:27 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 53
+[05-Dec-2018 17:59:27 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 53
+[05-Dec-2018 17:59:27 America/New_York] PHP Notice:  Undefined variable: vouched_booking in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 69
+[05-Dec-2018 17:59:27 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 69
+[05-Dec-2018 17:59:27 America/New_York] PHP Notice:  Undefined variable: vouched_booking in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 79
+[05-Dec-2018 17:59:27 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 79
+[05-Dec-2018 17:59:27 America/New_York] PHP Notice:  Undefined variable: vouched_booking in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 110
+[05-Dec-2018 17:59:27 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 110
+[05-Dec-2018 17:59:27 America/New_York] PHP Notice:  Undefined variable: vouched_booking in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 167
+[05-Dec-2018 17:59:27 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 167
+[05-Dec-2018 17:59:27 America/New_York] PHP Notice:  Undefined variable: vouched_booking in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 185
+[05-Dec-2018 17:59:27 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 185
+[05-Dec-2018 17:59:27 America/New_York] PHP Notice:  Undefined variable: vouched_booking in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 219
+[05-Dec-2018 17:59:27 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 219
+[05-Dec-2018 17:59:27 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 226
+[05-Dec-2018 17:59:31 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmationPanding.blade.php on line 27
+[05-Dec-2018 17:59:31 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmationPanding.blade.php on line 27
+[05-Dec-2018 17:59:31 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmationPanding.blade.php on line 27
+[05-Dec-2018 17:59:31 America/New_York] PHP Notice:  Undefined variable: vouched_booking in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmationPanding.blade.php on line 58
+[05-Dec-2018 17:59:31 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmationPanding.blade.php on line 58
+[05-Dec-2018 17:59:31 America/New_York] PHP Notice:  Undefined variable: vouched_booking in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmationPanding.blade.php on line 114
+[05-Dec-2018 17:59:31 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmationPanding.blade.php on line 114
+[05-Dec-2018 17:59:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/choizmfm/livebeds.com/demo/resources/views/hotel/header.blade.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/hotel/header.blade.php on line 43
+[05-Dec-2018 17:59:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function route() in /home/choizmfm/livebeds.com/demo/resources/views/hotel/hoteldetail.blade.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/hotel/hoteldetail.blade.php on line 9
+[05-Dec-2018 17:59:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function route() in /home/choizmfm/livebeds.com/demo/resources/views/hotel/hotellist.blade.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/hotel/hotellist.blade.php on line 5
+[05-Dec-2018 17:59:52 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 8
+[05-Dec-2018 17:59:52 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 8
+[05-Dec-2018 17:59:52 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 8
+[05-Dec-2018 17:59:52 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 9
+[05-Dec-2018 17:59:52 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 9
+[05-Dec-2018 17:59:52 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 9
+[05-Dec-2018 17:59:52 America/New_York] PHP Notice:  Undefined index: checkin in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 13
+[05-Dec-2018 17:59:52 America/New_York] PHP Notice:  Undefined index: checkout in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 15
+[05-Dec-2018 17:59:52 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 18
+[05-Dec-2018 17:59:52 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 18
+[05-Dec-2018 17:59:52 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 18
+[05-Dec-2018 17:59:52 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 19
+[05-Dec-2018 17:59:52 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 19
+[05-Dec-2018 17:59:52 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 19
+[05-Dec-2018 17:59:52 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 24
+[05-Dec-2018 17:59:52 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 24
+[05-Dec-2018 17:59:52 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 24
+[05-Dec-2018 17:59:52 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 24
+[05-Dec-2018 17:59:52 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 24
+[05-Dec-2018 17:59:52 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 24
+[05-Dec-2018 17:59:52 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 24
+[05-Dec-2018 17:59:52 America/New_York] PHP Notice:  Undefined index: currency in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 51
+[05-Dec-2018 17:59:55 America/New_York] PHP Notice:  Undefined index: optionID in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 86
+[05-Dec-2018 17:59:55 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 168
+[05-Dec-2018 17:59:55 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 168
+[05-Dec-2018 17:59:55 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 168
+[05-Dec-2018 17:59:55 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 168
+[05-Dec-2018 17:59:55 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 168
+[05-Dec-2018 17:59:55 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 168
+[05-Dec-2018 17:59:55 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 168
+[05-Dec-2018 17:59:55 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 209
+[05-Dec-2018 17:59:55 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 209
+[05-Dec-2018 17:59:55 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 209
+[05-Dec-2018 17:59:55 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 209
+[05-Dec-2018 17:59:55 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 209
+[05-Dec-2018 17:59:55 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 209
+[05-Dec-2018 17:59:55 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 209
+[05-Dec-2018 17:59:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php:382
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 382
+[05-Dec-2018 17:59:59 America/New_York] PHP Notice:  Undefined index: checkin in /home/choizmfm/livebeds.com/demo/resources/views/hotel/tbopayment.blade.php on line 21
+[05-Dec-2018 17:59:59 America/New_York] PHP Notice:  Undefined index: checkout in /home/choizmfm/livebeds.com/demo/resources/views/hotel/tbopayment.blade.php on line 22
+[05-Dec-2018 17:59:59 America/New_York] PHP Notice:  Undefined index: checkin in /home/choizmfm/livebeds.com/demo/resources/views/hotel/tbopayment.blade.php on line 26
+[05-Dec-2018 17:59:59 America/New_York] PHP Notice:  Undefined index: checkout in /home/choizmfm/livebeds.com/demo/resources/views/hotel/tbopayment.blade.php on line 28
+[05-Dec-2018 17:59:59 America/New_York] PHP Notice:  Undefined index: norooms in /home/choizmfm/livebeds.com/demo/resources/views/hotel/tbopayment.blade.php on line 130
+[05-Dec-2018 17:59:59 America/New_York] PHP Notice:  Undefined variable: priceinroom in /home/choizmfm/livebeds.com/demo/resources/views/hotel/tbopayment.blade.php on line 199
+[05-Dec-2018 17:59:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/hotel/tbopayment.blade.php:228
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/hotel/tbopayment.blade.php on line 228
+[05-Dec-2018 20:46:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/choizmfm/livebeds.com/demo/resources/views/hotel/header.blade.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/hotel/header.blade.php on line 43
+[05-Dec-2018 20:46:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function route() in /home/choizmfm/livebeds.com/demo/resources/views/hotel/hoteldetail.blade.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/hotel/hoteldetail.blade.php on line 9
+[05-Dec-2018 20:46:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function route() in /home/choizmfm/livebeds.com/demo/resources/views/hotel/hotellist.blade.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/hotel/hotellist.blade.php on line 5
+[05-Dec-2018 20:46:39 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 8
+[05-Dec-2018 20:46:39 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 8
+[05-Dec-2018 20:46:39 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 8
+[05-Dec-2018 20:46:39 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 9
+[05-Dec-2018 20:46:39 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 9
+[05-Dec-2018 20:46:39 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 9
+[05-Dec-2018 20:46:39 America/New_York] PHP Notice:  Undefined index: checkin in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 13
+[05-Dec-2018 20:46:39 America/New_York] PHP Notice:  Undefined index: checkout in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 15
+[05-Dec-2018 20:46:39 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 18
+[05-Dec-2018 20:46:39 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 18
+[05-Dec-2018 20:46:39 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 18
+[05-Dec-2018 20:46:39 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 19
+[05-Dec-2018 20:46:39 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 19
+[05-Dec-2018 20:46:39 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 19
+[05-Dec-2018 20:46:39 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 24
+[05-Dec-2018 20:46:39 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 24
+[05-Dec-2018 20:46:39 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 24
+[05-Dec-2018 20:46:39 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 24
+[05-Dec-2018 20:46:39 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 24
+[05-Dec-2018 20:46:39 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 24
+[05-Dec-2018 20:46:39 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 24
+[05-Dec-2018 20:46:39 America/New_York] PHP Notice:  Undefined index: currency in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 51
+[05-Dec-2018 20:46:39 America/New_York] PHP Notice:  Undefined index: optionID in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 86
+[05-Dec-2018 20:46:39 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 168
+[05-Dec-2018 20:46:39 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 168
+[05-Dec-2018 20:46:39 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 168
+[05-Dec-2018 20:46:39 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 168
+[05-Dec-2018 20:46:39 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 168
+[05-Dec-2018 20:46:39 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 168
+[05-Dec-2018 20:46:39 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 168
+[05-Dec-2018 20:46:39 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 209
+[05-Dec-2018 20:46:39 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 209
+[05-Dec-2018 20:46:39 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 209
+[05-Dec-2018 20:46:39 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 209
+[05-Dec-2018 20:46:39 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 209
+[05-Dec-2018 20:46:39 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 209
+[05-Dec-2018 20:46:39 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 209
+[05-Dec-2018 20:46:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php:382
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 382
+[06-Dec-2018 01:12:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/choizmfm/livebeds.com/demo/resources/views/hotel/header.blade.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/hotel/header.blade.php on line 43
+[06-Dec-2018 01:12:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function route() in /home/choizmfm/livebeds.com/demo/resources/views/hotel/hoteldetail.blade.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/hotel/hoteldetail.blade.php on line 9
+[06-Dec-2018 01:12:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function route() in /home/choizmfm/livebeds.com/demo/resources/views/hotel/hotellist.blade.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/hotel/hotellist.blade.php on line 5
+[06-Dec-2018 01:13:06 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 8
+[06-Dec-2018 01:13:06 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 8
+[06-Dec-2018 01:13:06 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 8
+[06-Dec-2018 01:13:06 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 9
+[06-Dec-2018 01:13:06 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 9
+[06-Dec-2018 01:13:06 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 9
+[06-Dec-2018 01:13:06 America/New_York] PHP Notice:  Undefined index: checkin in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 13
+[06-Dec-2018 01:13:06 America/New_York] PHP Notice:  Undefined index: checkout in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 15
+[06-Dec-2018 01:13:06 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 18
+[06-Dec-2018 01:13:06 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 18
+[06-Dec-2018 01:13:06 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 18
+[06-Dec-2018 01:13:06 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 19
+[06-Dec-2018 01:13:06 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 19
+[06-Dec-2018 01:13:06 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 19
+[06-Dec-2018 01:13:06 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 24
+[06-Dec-2018 01:13:06 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 24
+[06-Dec-2018 01:13:06 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 24
+[06-Dec-2018 01:13:06 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 24
+[06-Dec-2018 01:13:06 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 24
+[06-Dec-2018 01:13:06 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 24
+[06-Dec-2018 01:13:06 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 24
+[06-Dec-2018 01:13:06 America/New_York] PHP Notice:  Undefined index: currency in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 51
+[06-Dec-2018 01:13:06 America/New_York] PHP Notice:  Undefined index: optionID in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 86
+[06-Dec-2018 01:13:06 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 168
+[06-Dec-2018 01:13:06 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 168
+[06-Dec-2018 01:13:06 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 168
+[06-Dec-2018 01:13:06 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 168
+[06-Dec-2018 01:13:06 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 168
+[06-Dec-2018 01:13:06 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 168
+[06-Dec-2018 01:13:06 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 168
+[06-Dec-2018 01:13:06 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 209
+[06-Dec-2018 01:13:06 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 209
+[06-Dec-2018 01:13:06 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 209
+[06-Dec-2018 01:13:06 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 209
+[06-Dec-2018 01:13:06 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 209
+[06-Dec-2018 01:13:06 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 209
+[06-Dec-2018 01:13:06 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 209
+[06-Dec-2018 01:13:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php:382
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 382
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Undefined variable: vouched_booking in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 6
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 6
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Undefined variable: vouched_booking in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 7
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 7
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Undefined variable: vouched_booking in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 32
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 32
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 32
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 32
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 32
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Undefined variable: vouched_booking in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 34
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 34
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 34
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 34
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Undefined variable: vouched_booking in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 35
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 35
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 43
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 43
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Undefined variable: vouched_booking in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 51
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 51
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 51
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 51
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Undefined variable: vouched_booking in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 54
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 54
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Undefined variable: vouched_booking in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 61
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 61
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Undefined variable: vouched_booking in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 79
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 79
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Undefined variable: vouched_booking in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 89
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 89
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Undefined variable: vouched_booking in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 120
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 120
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Undefined variable: vouched_booking in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 177
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 177
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Undefined variable: vouched_booking in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 199
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 199
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Undefined variable: vouched_booking in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 233
+[06-Jan-2019 20:47:16 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 233
+[06-Jan-2019 20:47:16 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmation.blade.php on line 240
+[06-Jan-2019 20:47:18 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmationPanding.blade.php on line 27
+[06-Jan-2019 20:47:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmationPanding.blade.php on line 27
+[06-Jan-2019 20:47:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmationPanding.blade.php on line 27
+[06-Jan-2019 20:47:18 America/New_York] PHP Notice:  Undefined variable: vouched_booking in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmationPanding.blade.php on line 58
+[06-Jan-2019 20:47:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmationPanding.blade.php on line 58
+[06-Jan-2019 20:47:18 America/New_York] PHP Notice:  Undefined variable: vouched_booking in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmationPanding.blade.php on line 114
+[06-Jan-2019 20:47:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/confirmationPanding.blade.php on line 114
+[06-Jan-2019 20:47:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/choizmfm/livebeds.com/demo/resources/views/hotel/header.blade.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/hotel/header.blade.php on line 43
+[06-Jan-2019 20:47:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function route() in /home/choizmfm/livebeds.com/demo/resources/views/hotel/hoteldetail.blade.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/hotel/hoteldetail.blade.php on line 9
+[06-Jan-2019 20:47:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function route() in /home/choizmfm/livebeds.com/demo/resources/views/hotel/hotellist.blade.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/hotel/hotellist.blade.php on line 10
+[06-Jan-2019 20:47:35 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 8
+[06-Jan-2019 20:47:35 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 8
+[06-Jan-2019 20:47:35 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 8
+[06-Jan-2019 20:47:35 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 9
+[06-Jan-2019 20:47:35 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 9
+[06-Jan-2019 20:47:35 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 9
+[06-Jan-2019 20:47:35 America/New_York] PHP Notice:  Undefined index: checkin in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 13
+[06-Jan-2019 20:47:35 America/New_York] PHP Notice:  Undefined index: checkout in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 15
+[06-Jan-2019 20:47:35 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 18
+[06-Jan-2019 20:47:35 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 18
+[06-Jan-2019 20:47:35 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 18
+[06-Jan-2019 20:47:35 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 19
+[06-Jan-2019 20:47:35 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 19
+[06-Jan-2019 20:47:35 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 19
+[06-Jan-2019 20:47:35 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 24
+[06-Jan-2019 20:47:35 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 24
+[06-Jan-2019 20:47:35 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 24
+[06-Jan-2019 20:47:35 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 24
+[06-Jan-2019 20:47:35 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 24
+[06-Jan-2019 20:47:35 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 24
+[06-Jan-2019 20:47:35 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 24
+[06-Jan-2019 20:47:35 America/New_York] PHP Notice:  Undefined index: currency in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 51
+[06-Jan-2019 20:47:35 America/New_York] PHP Notice:  Undefined index: optionID in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 86
+[06-Jan-2019 20:47:35 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 168
+[06-Jan-2019 20:47:35 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 168
+[06-Jan-2019 20:47:35 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 168
+[06-Jan-2019 20:47:35 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 168
+[06-Jan-2019 20:47:35 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 168
+[06-Jan-2019 20:47:35 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 168
+[06-Jan-2019 20:47:35 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 168
+[06-Jan-2019 20:47:35 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 209
+[06-Jan-2019 20:47:35 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 209
+[06-Jan-2019 20:47:35 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 209
+[06-Jan-2019 20:47:35 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 209
+[06-Jan-2019 20:47:35 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 209
+[06-Jan-2019 20:47:35 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 209
+[06-Jan-2019 20:47:35 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 209
+[06-Jan-2019 20:47:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php:407
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 407
+[06-Jan-2019 20:47:38 America/New_York] PHP Notice:  Undefined index: checkin in /home/choizmfm/livebeds.com/demo/resources/views/hotel/tbopayment.blade.php on line 21
+[06-Jan-2019 20:47:38 America/New_York] PHP Notice:  Undefined index: checkout in /home/choizmfm/livebeds.com/demo/resources/views/hotel/tbopayment.blade.php on line 22
+[06-Jan-2019 20:47:38 America/New_York] PHP Notice:  Undefined index: checkin in /home/choizmfm/livebeds.com/demo/resources/views/hotel/tbopayment.blade.php on line 26
+[06-Jan-2019 20:47:38 America/New_York] PHP Notice:  Undefined index: checkout in /home/choizmfm/livebeds.com/demo/resources/views/hotel/tbopayment.blade.php on line 28
+[06-Jan-2019 20:47:38 America/New_York] PHP Notice:  Undefined index: norooms in /home/choizmfm/livebeds.com/demo/resources/views/hotel/tbopayment.blade.php on line 119
+[06-Jan-2019 20:47:38 America/New_York] PHP Notice:  Undefined index: norooms in /home/choizmfm/livebeds.com/demo/resources/views/hotel/tbopayment.blade.php on line 139
+[06-Jan-2019 20:47:38 America/New_York] PHP Notice:  Undefined index: norooms in /home/choizmfm/livebeds.com/demo/resources/views/hotel/tbopayment.blade.php on line 195
+[06-Jan-2019 20:47:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/hotel/tbopayment.blade.php:238
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/hotel/tbopayment.blade.php on line 238
+[07-Jan-2019 11:46:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/choizmfm/livebeds.com/demo/resources/views/hotel/header.blade.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/hotel/header.blade.php on line 43
+[07-Jan-2019 11:46:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function route() in /home/choizmfm/livebeds.com/demo/resources/views/hotel/hoteldetail.blade.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/hotel/hoteldetail.blade.php on line 9
+[07-Jan-2019 11:46:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function route() in /home/choizmfm/livebeds.com/demo/resources/views/hotel/hotellist.blade.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/hotel/hotellist.blade.php on line 10
+[07-Jan-2019 11:46:57 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 8
+[07-Jan-2019 11:46:57 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 8
+[07-Jan-2019 11:46:57 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 8
+[07-Jan-2019 11:46:57 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 9
+[07-Jan-2019 11:46:57 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 9
+[07-Jan-2019 11:46:57 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 9
+[07-Jan-2019 11:46:57 America/New_York] PHP Notice:  Undefined index: checkin in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 13
+[07-Jan-2019 11:46:57 America/New_York] PHP Notice:  Undefined index: checkout in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 15
+[07-Jan-2019 11:46:57 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 18
+[07-Jan-2019 11:46:57 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 18
+[07-Jan-2019 11:46:57 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 18
+[07-Jan-2019 11:46:57 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 19
+[07-Jan-2019 11:46:57 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 19
+[07-Jan-2019 11:46:57 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 19
+[07-Jan-2019 11:46:57 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 24
+[07-Jan-2019 11:46:57 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 24
+[07-Jan-2019 11:46:57 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 24
+[07-Jan-2019 11:46:57 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 24
+[07-Jan-2019 11:46:57 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 24
+[07-Jan-2019 11:46:57 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 24
+[07-Jan-2019 11:46:57 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 24
+[07-Jan-2019 11:46:57 America/New_York] PHP Notice:  Undefined index: currency in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 51
+[07-Jan-2019 11:46:57 America/New_York] PHP Notice:  Undefined index: optionID in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 86
+[07-Jan-2019 11:46:57 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 168
+[07-Jan-2019 11:46:57 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 168
+[07-Jan-2019 11:46:57 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 168
+[07-Jan-2019 11:46:57 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 168
+[07-Jan-2019 11:46:57 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 168
+[07-Jan-2019 11:46:57 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 168
+[07-Jan-2019 11:46:57 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 168
+[07-Jan-2019 11:46:57 America/New_York] PHP Notice:  Undefined variable: hotel_details in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 209
+[07-Jan-2019 11:46:57 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 209
+[07-Jan-2019 11:46:57 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 209
+[07-Jan-2019 11:46:57 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 209
+[07-Jan-2019 11:46:57 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 209
+[07-Jan-2019 11:46:57 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 209
+[07-Jan-2019 11:46:57 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 209
+[07-Jan-2019 11:46:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php:407
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/hotel/payment.blade.php on line 407
+[07-Jan-2019 11:47:04 America/New_York] PHP Notice:  Undefined index: checkin in /home/choizmfm/livebeds.com/demo/resources/views/hotel/tbopayment.blade.php on line 21
+[07-Jan-2019 11:47:04 America/New_York] PHP Notice:  Undefined index: checkout in /home/choizmfm/livebeds.com/demo/resources/views/hotel/tbopayment.blade.php on line 22
+[07-Jan-2019 11:47:04 America/New_York] PHP Notice:  Undefined index: checkin in /home/choizmfm/livebeds.com/demo/resources/views/hotel/tbopayment.blade.php on line 26
+[07-Jan-2019 11:47:04 America/New_York] PHP Notice:  Undefined index: checkout in /home/choizmfm/livebeds.com/demo/resources/views/hotel/tbopayment.blade.php on line 28
+[07-Jan-2019 11:47:04 America/New_York] PHP Notice:  Undefined index: norooms in /home/choizmfm/livebeds.com/demo/resources/views/hotel/tbopayment.blade.php on line 119
+[07-Jan-2019 11:47:04 America/New_York] PHP Notice:  Undefined index: norooms in /home/choizmfm/livebeds.com/demo/resources/views/hotel/tbopayment.blade.php on line 139
+[07-Jan-2019 11:47:04 America/New_York] PHP Notice:  Undefined index: norooms in /home/choizmfm/livebeds.com/demo/resources/views/hotel/tbopayment.blade.php on line 195
+[07-Jan-2019 11:47:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/hotel/tbopayment.blade.php:238
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/hotel/tbopayment.blade.php on line 238

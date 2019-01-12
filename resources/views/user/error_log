@@ -1,0 +1,145 @@
+[05-Dec-2018 17:47:14 America/New_York] PHP Notice:  Undefined variable: row in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 29
+[05-Dec-2018 17:47:14 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 29
+[05-Dec-2018 17:47:14 America/New_York] PHP Notice:  Undefined variable: row in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 29
+[05-Dec-2018 17:47:14 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 29
+[05-Dec-2018 17:47:14 America/New_York] PHP Notice:  Undefined variable: row in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 29
+[05-Dec-2018 17:47:14 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 29
+[05-Dec-2018 17:47:14 America/New_York] PHP Notice:  Undefined variable: products in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 65
+[05-Dec-2018 17:47:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 89
+[05-Dec-2018 17:47:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/user/user.blade.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/user/user.blade.php on line 22
+[05-Dec-2018 17:47:21 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php on line 90
+[05-Dec-2018 17:47:21 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php on line 90
+[05-Dec-2018 17:47:21 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php on line 95
+[05-Dec-2018 17:47:21 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php on line 107
+[05-Dec-2018 17:47:21 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php on line 107
+[05-Dec-2018 17:47:21 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php on line 114
+[05-Dec-2018 17:47:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php:128
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php on line 128
+[05-Dec-2018 17:47:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/user/userupdate.blade.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/user/userupdate.blade.php on line 22
+[05-Dec-2018 21:03:43 America/New_York] PHP Notice:  Undefined variable: row in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 29
+[05-Dec-2018 21:03:43 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 29
+[05-Dec-2018 21:03:43 America/New_York] PHP Notice:  Undefined variable: row in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 29
+[05-Dec-2018 21:03:43 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 29
+[05-Dec-2018 21:03:43 America/New_York] PHP Notice:  Undefined variable: row in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 29
+[05-Dec-2018 21:03:43 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 29
+[05-Dec-2018 21:03:43 America/New_York] PHP Notice:  Undefined variable: products in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 65
+[05-Dec-2018 21:03:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 89
+[05-Dec-2018 21:03:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/user/user.blade.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/user/user.blade.php on line 22
+[05-Dec-2018 21:04:04 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php on line 90
+[05-Dec-2018 21:04:04 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php on line 90
+[05-Dec-2018 21:04:04 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php on line 95
+[05-Dec-2018 21:04:04 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php on line 107
+[05-Dec-2018 21:04:04 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php on line 107
+[05-Dec-2018 21:04:04 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php on line 114
+[05-Dec-2018 21:04:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php:128
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php on line 128
+[05-Dec-2018 21:04:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/user/userupdate.blade.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/user/userupdate.blade.php on line 22
+[06-Dec-2018 01:18:24 America/New_York] PHP Notice:  Undefined variable: row in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 29
+[06-Dec-2018 01:18:24 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 29
+[06-Dec-2018 01:18:24 America/New_York] PHP Notice:  Undefined variable: row in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 29
+[06-Dec-2018 01:18:24 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 29
+[06-Dec-2018 01:18:24 America/New_York] PHP Notice:  Undefined variable: row in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 29
+[06-Dec-2018 01:18:24 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 29
+[06-Dec-2018 01:18:24 America/New_York] PHP Notice:  Undefined variable: products in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 65
+[06-Dec-2018 01:18:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 89
+[06-Dec-2018 01:18:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/user/user.blade.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/user/user.blade.php on line 22
+[06-Dec-2018 01:18:53 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php on line 90
+[06-Dec-2018 01:18:53 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php on line 90
+[06-Dec-2018 01:18:53 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php on line 95
+[06-Dec-2018 01:18:53 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php on line 107
+[06-Dec-2018 01:18:53 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php on line 107
+[06-Dec-2018 01:18:53 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php on line 114
+[06-Dec-2018 01:18:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php:128
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php on line 128
+[06-Dec-2018 01:19:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/user/userupdate.blade.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/user/userupdate.blade.php on line 22
+[06-Jan-2019 20:52:07 America/New_York] PHP Notice:  Undefined variable: row in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 29
+[06-Jan-2019 20:52:07 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 29
+[06-Jan-2019 20:52:07 America/New_York] PHP Notice:  Undefined variable: row in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 29
+[06-Jan-2019 20:52:07 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 29
+[06-Jan-2019 20:52:07 America/New_York] PHP Notice:  Undefined variable: row in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 29
+[06-Jan-2019 20:52:07 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 29
+[06-Jan-2019 20:52:07 America/New_York] PHP Notice:  Undefined variable: products in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 65
+[06-Jan-2019 20:52:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 89
+[06-Jan-2019 20:52:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/user/user.blade.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/user/user.blade.php on line 22
+[06-Jan-2019 20:52:18 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php on line 90
+[06-Jan-2019 20:52:18 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php on line 90
+[06-Jan-2019 20:52:18 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php on line 95
+[06-Jan-2019 20:52:18 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php on line 107
+[06-Jan-2019 20:52:18 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php on line 107
+[06-Jan-2019 20:52:18 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php on line 114
+[06-Jan-2019 20:52:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php:128
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php on line 128
+[06-Jan-2019 20:52:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/user/userupdate.blade.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/user/userupdate.blade.php on line 22
+[07-Jan-2019 11:51:38 America/New_York] PHP Notice:  Undefined variable: row in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 29
+[07-Jan-2019 11:51:38 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 29
+[07-Jan-2019 11:51:38 America/New_York] PHP Notice:  Undefined variable: row in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 29
+[07-Jan-2019 11:51:38 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 29
+[07-Jan-2019 11:51:38 America/New_York] PHP Notice:  Undefined variable: row in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 29
+[07-Jan-2019 11:51:38 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 29
+[07-Jan-2019 11:51:38 America/New_York] PHP Notice:  Undefined variable: products in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 65
+[07-Jan-2019 11:51:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/user/agencyuserlist.blade.php on line 89
+[07-Jan-2019 11:51:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/user/user.blade.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/user/user.blade.php on line 22
+[07-Jan-2019 11:51:49 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php on line 90
+[07-Jan-2019 11:51:49 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php on line 90
+[07-Jan-2019 11:51:49 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php on line 95
+[07-Jan-2019 11:51:49 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php on line 107
+[07-Jan-2019 11:51:49 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php on line 107
+[07-Jan-2019 11:51:49 America/New_York] PHP Notice:  Undefined variable: Premissions in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php on line 114
+[07-Jan-2019 11:51:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php:128
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/user/userlist.blade.php on line 128
+[07-Jan-2019 11:52:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/user/userupdate.blade.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/user/userupdate.blade.php on line 22

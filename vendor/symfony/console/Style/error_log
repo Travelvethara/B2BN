@@ -1,0 +1,5 @@
+[05-Dec-2018 22:27:40 America/New_York] PHP Fatal error:  Interface 'Symfony\Component\Console\Output\OutputInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Style/OutputStyle.php on line 24
+[05-Dec-2018 22:27:55 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Console\Style\OutputStyle' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Style/SymfonyStyle.php on line 33
+[06-Dec-2018 07:40:02 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Console\Style\OutputStyle' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Style/SymfonyStyle.php on line 33
+[07-Jan-2019 13:52:14 America/New_York] PHP Fatal error:  Interface 'Symfony\Component\Console\Output\OutputInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Style/OutputStyle.php on line 24
+[07-Jan-2019 13:52:20 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Console\Style\OutputStyle' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Style/SymfonyStyle.php on line 33

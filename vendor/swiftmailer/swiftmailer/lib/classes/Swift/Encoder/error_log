@@ -1,0 +1,9 @@
+[07-Dec-2018 17:21:11 America/New_York] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/choizmfm/livebeds.com/demo/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Encoder/Base64Encoder.php on line 16
+[07-Dec-2018 17:21:17 America/New_York] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/choizmfm/livebeds.com/demo/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Encoder/QpEncoder.php on line 18
+[07-Dec-2018 17:21:23 America/New_York] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/choizmfm/livebeds.com/demo/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Encoder/Rfc2231Encoder.php on line 16
+[08-Dec-2018 10:16:32 America/New_York] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/choizmfm/livebeds.com/demo/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Encoder/Base64Encoder.php on line 16
+[08-Dec-2018 10:16:38 America/New_York] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/choizmfm/livebeds.com/demo/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Encoder/QpEncoder.php on line 18
+[08-Dec-2018 10:16:43 America/New_York] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/choizmfm/livebeds.com/demo/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Encoder/Rfc2231Encoder.php on line 16
+[08-Dec-2018 19:28:22 America/New_York] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/choizmfm/livebeds.com/demo/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Encoder/Base64Encoder.php on line 16
+[08-Dec-2018 19:28:26 America/New_York] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/choizmfm/livebeds.com/demo/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Encoder/QpEncoder.php on line 18
+[08-Dec-2018 19:28:31 America/New_York] PHP Fatal error:  Interface 'Swift_Encoder' not found in /home/choizmfm/livebeds.com/demo/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Encoder/Rfc2231Encoder.php on line 16

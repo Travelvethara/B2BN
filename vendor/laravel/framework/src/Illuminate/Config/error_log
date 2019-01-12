@@ -1,0 +1,3 @@
+[06-Dec-2018 15:18:04 America/New_York] PHP Fatal error:  Interface 'Illuminate\Contracts\Config\Repository' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Config/Repository.php on line 9
+[07-Dec-2018 07:37:42 America/New_York] PHP Fatal error:  Interface 'Illuminate\Contracts\Config\Repository' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Config/Repository.php on line 9
+[08-Dec-2018 01:43:18 America/New_York] PHP Fatal error:  Interface 'Illuminate\Contracts\Config\Repository' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Config/Repository.php on line 9

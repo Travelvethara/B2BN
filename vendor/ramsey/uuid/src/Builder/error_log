@@ -1,0 +1,6 @@
+[06-Dec-2018 06:42:50 America/New_York] PHP Fatal error:  Interface 'Ramsey\Uuid\Builder\UuidBuilderInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/Builder/DefaultUuidBuilder.php on line 25
+[06-Dec-2018 06:42:56 America/New_York] PHP Fatal error:  Interface 'Ramsey\Uuid\Builder\UuidBuilderInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/Builder/DegradedUuidBuilder.php on line 24
+[06-Dec-2018 22:04:24 America/New_York] PHP Fatal error:  Interface 'Ramsey\Uuid\Builder\UuidBuilderInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/Builder/DefaultUuidBuilder.php on line 25
+[06-Dec-2018 22:04:29 America/New_York] PHP Fatal error:  Interface 'Ramsey\Uuid\Builder\UuidBuilderInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/Builder/DegradedUuidBuilder.php on line 24
+[07-Dec-2018 17:11:08 America/New_York] PHP Fatal error:  Interface 'Ramsey\Uuid\Builder\UuidBuilderInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/Builder/DefaultUuidBuilder.php on line 25
+[07-Dec-2018 17:11:14 America/New_York] PHP Fatal error:  Interface 'Ramsey\Uuid\Builder\UuidBuilderInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/Builder/DegradedUuidBuilder.php on line 24

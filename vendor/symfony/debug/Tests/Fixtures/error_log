@@ -1,0 +1,22 @@
+[06-Dec-2018 09:56:09 America/New_York] PHP Warning:  Class 'Symfony\Component\Debug\Tests\Fixtures\NotPSR0bis' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/Tests/Fixtures/ClassAlias.php on line 3
+[06-Dec-2018 09:56:21 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Debug\Tests\Fixtures\FinalMethod' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/Tests/Fixtures/ExtendedFinalMethod.php on line 5
+[06-Dec-2018 09:56:34 America/New_York] PHP Fatal error:  Trait 'Symfony\Component\Debug\Tests\Fixtures\InternalTrait2' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/Tests/Fixtures/InternalClass.php on line 10
+[06-Dec-2018 09:56:48 America/New_York] PHP Fatal error:  Interface 'Symfony\Component\Debug\Tests\Fixtures\DeprecatedInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/Tests/Fixtures/NonDeprecatedInterface.php on line 5
+[06-Dec-2018 09:56:59 America/New_York] PHP Fatal error:  Uncaught Exception: boo in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/Tests/Fixtures/Throwing.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/Tests/Fixtures/Throwing.php on line 3
+[06-Dec-2018 23:35:02 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Debug\Tests\Fixtures\FinalMethod' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/Tests/Fixtures/ExtendedFinalMethod.php on line 5
+[06-Dec-2018 23:35:13 America/New_York] PHP Fatal error:  Trait 'Symfony\Component\Debug\Tests\Fixtures\InternalTrait2' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/Tests/Fixtures/InternalClass.php on line 10
+[06-Dec-2018 23:35:21 America/New_York] PHP Fatal error:  Interface 'Symfony\Component\Debug\Tests\Fixtures\DeprecatedInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/Tests/Fixtures/NonDeprecatedInterface.php on line 5
+[06-Dec-2018 23:35:29 America/New_York] PHP Fatal error:  Uncaught Exception: boo in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/Tests/Fixtures/Throwing.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/Tests/Fixtures/Throwing.php on line 3
+[07-Dec-2018 17:58:25 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Debug\Tests\Fixtures\FinalMethod' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/Tests/Fixtures/ExtendedFinalMethod.php on line 5
+[07-Dec-2018 17:58:29 America/New_York] PHP Fatal error:  Trait 'Symfony\Component\Debug\Tests\Fixtures\InternalTrait2' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/Tests/Fixtures/InternalClass.php on line 10
+[07-Dec-2018 17:58:33 America/New_York] PHP Fatal error:  Interface 'Symfony\Component\Debug\Tests\Fixtures\DeprecatedInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/Tests/Fixtures/NonDeprecatedInterface.php on line 5
+[07-Dec-2018 17:58:36 America/New_York] PHP Fatal error:  Uncaught Exception: boo in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/Tests/Fixtures/Throwing.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/Tests/Fixtures/Throwing.php on line 3

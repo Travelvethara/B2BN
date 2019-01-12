@@ -1,0 +1,40 @@
+[05-Dec-2018 15:38:01 America/New_York] PHP Notice:  Undefined variable: factory in /home/choizmfm/livebeds.com/demo/database/factories/ModelFactory.php on line 15
+[05-Dec-2018 15:38:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/choizmfm/livebeds.com/demo/database/factories/ModelFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/database/factories/ModelFactory.php on line 15
+[05-Dec-2018 17:52:18 America/New_York] PHP Notice:  Undefined variable: factory in /home/choizmfm/livebeds.com/demo/database/factories/ModelFactory.php on line 15
+[05-Dec-2018 17:52:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/choizmfm/livebeds.com/demo/database/factories/ModelFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/database/factories/ModelFactory.php on line 15
+[05-Dec-2018 20:39:55 America/New_York] PHP Notice:  Undefined variable: factory in /home/choizmfm/livebeds.com/demo/database/factories/ModelFactory.php on line 15
+[05-Dec-2018 20:39:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/choizmfm/livebeds.com/demo/database/factories/ModelFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/database/factories/ModelFactory.php on line 15
+[14-Dec-2018 18:24:34 America/New_York] PHP Notice:  Undefined variable: factory in /home/choizmfm/livebeds.com/demo/database/factories/ModelFactory.php on line 15
+[14-Dec-2018 18:24:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/choizmfm/livebeds.com/demo/database/factories/ModelFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/database/factories/ModelFactory.php on line 15
+[21-Dec-2018 11:02:25 America/New_York] PHP Notice:  Undefined variable: factory in /home/choizmfm/livebeds.com/demo/database/factories/ModelFactory.php on line 15
+[21-Dec-2018 11:02:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/choizmfm/livebeds.com/demo/database/factories/ModelFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/database/factories/ModelFactory.php on line 15
+[06-Jan-2019 05:35:32 America/New_York] PHP Notice:  Undefined variable: factory in /home/choizmfm/livebeds.com/demo/database/factories/ModelFactory.php on line 15
+[06-Jan-2019 05:35:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/choizmfm/livebeds.com/demo/database/factories/ModelFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/database/factories/ModelFactory.php on line 15
+[06-Jan-2019 20:42:12 America/New_York] PHP Notice:  Undefined variable: factory in /home/choizmfm/livebeds.com/demo/database/factories/ModelFactory.php on line 15
+[06-Jan-2019 20:42:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/choizmfm/livebeds.com/demo/database/factories/ModelFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/database/factories/ModelFactory.php on line 15
+[07-Jan-2019 11:42:24 America/New_York] PHP Notice:  Undefined variable: factory in /home/choizmfm/livebeds.com/demo/database/factories/ModelFactory.php on line 15
+[07-Jan-2019 11:42:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/choizmfm/livebeds.com/demo/database/factories/ModelFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/database/factories/ModelFactory.php on line 15

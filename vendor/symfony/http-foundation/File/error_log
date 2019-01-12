@@ -1,0 +1,8 @@
+[05-Dec-2018 22:53:04 America/New_York] PHP Fatal error:  Class 'Symfony\Component\HttpFoundation\File\File' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/http-foundation/File/Stream.php on line 19
+[05-Dec-2018 22:53:15 America/New_York] PHP Fatal error:  Class 'Symfony\Component\HttpFoundation\File\File' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/http-foundation/File/UploadedFile.php on line 25
+[06-Dec-2018 10:50:43 America/New_York] PHP Fatal error:  Class 'Symfony\Component\HttpFoundation\File\File' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/http-foundation/File/Stream.php on line 19
+[06-Dec-2018 10:50:53 America/New_York] PHP Fatal error:  Class 'Symfony\Component\HttpFoundation\File\File' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/http-foundation/File/UploadedFile.php on line 25
+[06-Dec-2018 23:53:34 America/New_York] PHP Fatal error:  Class 'Symfony\Component\HttpFoundation\File\File' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/http-foundation/File/Stream.php on line 19
+[06-Dec-2018 23:53:43 America/New_York] PHP Fatal error:  Class 'Symfony\Component\HttpFoundation\File\File' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/http-foundation/File/UploadedFile.php on line 25
+[07-Jan-2019 16:23:35 America/New_York] PHP Fatal error:  Class 'Symfony\Component\HttpFoundation\File\File' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/http-foundation/File/Stream.php on line 19
+[07-Jan-2019 16:23:39 America/New_York] PHP Fatal error:  Class 'Symfony\Component\HttpFoundation\File\File' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/http-foundation/File/UploadedFile.php on line 25

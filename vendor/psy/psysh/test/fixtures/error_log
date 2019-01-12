@@ -1,0 +1,15 @@
+[06-Dec-2018 06:40:37 America/New_York] PHP Notice:  Undefined variable: config in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/fixtures/config.php on line 12
+[06-Dec-2018 06:40:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setRuntimeDir() on null in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/fixtures/config.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/fixtures/config.php on line 12
+[06-Dec-2018 22:01:06 America/New_York] PHP Notice:  Undefined variable: config in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/fixtures/config.php on line 12
+[06-Dec-2018 22:01:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setRuntimeDir() on null in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/fixtures/config.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/fixtures/config.php on line 12
+[07-Dec-2018 17:09:09 America/New_York] PHP Notice:  Undefined variable: config in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/fixtures/config.php on line 12
+[07-Dec-2018 17:09:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function setRuntimeDir() on null in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/fixtures/config.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/fixtures/config.php on line 12

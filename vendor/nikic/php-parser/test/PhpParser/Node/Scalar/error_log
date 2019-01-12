@@ -1,0 +1,6 @@
+[07-Dec-2018 13:17:12 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/nikic/php-parser/test/PhpParser/Node/Scalar/MagicConstTest.php on line 7
+[07-Dec-2018 13:17:16 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/nikic/php-parser/test/PhpParser/Node/Scalar/StringTest.php on line 7
+[08-Dec-2018 06:14:01 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/nikic/php-parser/test/PhpParser/Node/Scalar/MagicConstTest.php on line 7
+[08-Dec-2018 06:14:05 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/nikic/php-parser/test/PhpParser/Node/Scalar/StringTest.php on line 7
+[08-Dec-2018 19:12:24 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/nikic/php-parser/test/PhpParser/Node/Scalar/MagicConstTest.php on line 7
+[08-Dec-2018 19:12:29 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/nikic/php-parser/test/PhpParser/Node/Scalar/StringTest.php on line 7

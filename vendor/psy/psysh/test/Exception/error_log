@@ -1,0 +1,15 @@
+[06-Dec-2018 06:34:51 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/Exception/BreakExceptionTest.php on line 16
+[06-Dec-2018 06:34:55 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/Exception/ErrorExceptionTest.php on line 16
+[06-Dec-2018 06:35:01 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/Exception/FatalErrorExceptionTest.php on line 16
+[06-Dec-2018 06:35:06 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/Exception/ParseErrorExceptionTest.php on line 16
+[06-Dec-2018 06:35:09 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/Exception/RuntimeExceptionTest.php on line 16
+[06-Dec-2018 21:55:15 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/Exception/BreakExceptionTest.php on line 16
+[06-Dec-2018 21:55:20 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/Exception/ErrorExceptionTest.php on line 16
+[06-Dec-2018 21:55:25 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/Exception/FatalErrorExceptionTest.php on line 16
+[06-Dec-2018 21:55:33 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/Exception/ParseErrorExceptionTest.php on line 16
+[06-Dec-2018 21:55:39 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/Exception/RuntimeExceptionTest.php on line 16
+[07-Dec-2018 17:05:38 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/Exception/BreakExceptionTest.php on line 16
+[07-Dec-2018 17:06:02 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/Exception/ErrorExceptionTest.php on line 16
+[07-Dec-2018 17:06:21 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/Exception/FatalErrorExceptionTest.php on line 16
+[07-Dec-2018 17:06:26 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/Exception/ParseErrorExceptionTest.php on line 16
+[07-Dec-2018 17:06:31 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/Exception/RuntimeExceptionTest.php on line 16

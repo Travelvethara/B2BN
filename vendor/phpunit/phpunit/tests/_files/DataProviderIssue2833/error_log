@@ -1,0 +1,6 @@
+[06-Dec-2018 21:49:51 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/tests/_files/DataProviderIssue2833/FirstTest.php on line 7
+[06-Dec-2018 21:50:01 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/tests/_files/DataProviderIssue2833/SecondTest.php on line 7
+[07-Dec-2018 16:38:18 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/tests/_files/DataProviderIssue2833/FirstTest.php on line 7
+[07-Dec-2018 16:38:21 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/tests/_files/DataProviderIssue2833/SecondTest.php on line 7
+[08-Dec-2018 10:04:02 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/tests/_files/DataProviderIssue2833/FirstTest.php on line 7
+[08-Dec-2018 10:04:06 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/tests/_files/DataProviderIssue2833/SecondTest.php on line 7

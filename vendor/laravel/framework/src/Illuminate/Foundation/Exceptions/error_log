@@ -1,0 +1,3 @@
+[07-Dec-2018 11:44:08 America/New_York] PHP Fatal error:  Interface 'Illuminate\Contracts\Debug\ExceptionHandler' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php on line 24
+[08-Dec-2018 02:43:07 America/New_York] PHP Fatal error:  Interface 'Illuminate\Contracts\Debug\ExceptionHandler' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php on line 24
+[08-Dec-2018 15:58:07 America/New_York] PHP Fatal error:  Interface 'Illuminate\Contracts\Debug\ExceptionHandler' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php on line 24

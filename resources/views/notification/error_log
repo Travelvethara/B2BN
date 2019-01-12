@@ -1,0 +1,32 @@
+[05-Dec-2018 18:03:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/notification/loginnotification.blade.php:225
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/notification/loginnotification.blade.php on line 225
+[05-Dec-2018 18:03:54 America/New_York] PHP Notice:  Undefined variable: details in /home/choizmfm/livebeds.com/demo/resources/views/notification/notification.blade.php on line 222
+[05-Dec-2018 18:03:54 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/notification/notification.blade.php on line 222
+[05-Dec-2018 18:03:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/notification/notification.blade.php:294
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/notification/notification.blade.php on line 294
+[05-Dec-2018 20:58:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/notification/loginnotification.blade.php:225
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/notification/loginnotification.blade.php on line 225
+[06-Dec-2018 01:16:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/notification/loginnotification.blade.php:225
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/notification/loginnotification.blade.php on line 225
+[06-Jan-2019 20:50:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/notification/loginnotification.blade.php:225
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/notification/loginnotification.blade.php on line 225
+[06-Jan-2019 20:50:09 America/New_York] PHP Notice:  Undefined variable: details in /home/choizmfm/livebeds.com/demo/resources/views/notification/notification.blade.php on line 222
+[06-Jan-2019 20:50:09 America/New_York] PHP Notice:  Trying to get property of non-object in /home/choizmfm/livebeds.com/demo/resources/views/notification/notification.blade.php on line 222
+[06-Jan-2019 20:50:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/notification/notification.blade.php:294
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/notification/notification.blade.php on line 294
+[07-Jan-2019 11:49:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/choizmfm/livebeds.com/demo/resources/views/notification/loginnotification.blade.php:225
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/notification/loginnotification.blade.php on line 225

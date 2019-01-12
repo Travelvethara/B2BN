@@ -1,0 +1,6 @@
+[07-Dec-2018 07:18:25 America/New_York] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Auth/Console/AuthMakeCommand.php on line 8
+[07-Dec-2018 07:18:30 America/New_York] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Auth/Console/ClearResetsCommand.php on line 7
+[08-Dec-2018 01:31:45 America/New_York] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Auth/Console/AuthMakeCommand.php on line 8
+[08-Dec-2018 01:31:53 America/New_York] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Auth/Console/ClearResetsCommand.php on line 7
+[08-Dec-2018 15:38:08 America/New_York] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Auth/Console/AuthMakeCommand.php on line 8
+[08-Dec-2018 15:38:13 America/New_York] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Auth/Console/ClearResetsCommand.php on line 7

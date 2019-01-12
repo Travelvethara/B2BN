@@ -1,0 +1,4 @@
+[06-Dec-2018 01:21:49 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/yaml/Command/LintCommand.php on line 29
+[06-Dec-2018 11:33:54 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/yaml/Command/LintCommand.php on line 29
+[07-Dec-2018 02:36:40 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/yaml/Command/LintCommand.php on line 29
+[07-Jan-2019 17:02:24 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/yaml/Command/LintCommand.php on line 29

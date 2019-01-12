@@ -1,0 +1,3 @@
+[07-Dec-2018 12:44:45 America/New_York] PHP Fatal error:  Class 'Monolog\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/monolog/monolog/tests/Monolog/Handler/Slack/SlackRecordTest.php on line 20
+[08-Dec-2018 05:43:48 America/New_York] PHP Fatal error:  Class 'Monolog\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/monolog/monolog/tests/Monolog/Handler/Slack/SlackRecordTest.php on line 20
+[08-Dec-2018 19:13:28 America/New_York] PHP Fatal error:  Class 'Monolog\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/monolog/monolog/tests/Monolog/Handler/Slack/SlackRecordTest.php on line 20

@@ -1,0 +1,4 @@
+[05-Dec-2018 22:39:13 America/New_York] PHP Fatal error:  Interface 'Symfony\Component\CssSelector\XPath\TranslatorInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/css-selector/XPath/Translator.php on line 31
+[06-Dec-2018 10:25:50 America/New_York] PHP Fatal error:  Interface 'Symfony\Component\CssSelector\XPath\TranslatorInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/css-selector/XPath/Translator.php on line 31
+[06-Dec-2018 23:29:08 America/New_York] PHP Fatal error:  Interface 'Symfony\Component\CssSelector\XPath\TranslatorInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/css-selector/XPath/Translator.php on line 31
+[07-Jan-2019 16:26:13 America/New_York] PHP Fatal error:  Interface 'Symfony\Component\CssSelector\XPath\TranslatorInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/css-selector/XPath/Translator.php on line 31

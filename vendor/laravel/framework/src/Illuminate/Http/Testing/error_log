@@ -1,0 +1,3 @@
+[07-Dec-2018 11:54:55 America/New_York] PHP Fatal error:  Class 'Illuminate\Http\UploadedFile' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Http/Testing/File.php on line 7
+[08-Dec-2018 02:49:01 America/New_York] PHP Fatal error:  Class 'Illuminate\Http\UploadedFile' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Http/Testing/File.php on line 7
+[08-Dec-2018 16:01:18 America/New_York] PHP Fatal error:  Class 'Illuminate\Http\UploadedFile' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Http/Testing/File.php on line 7

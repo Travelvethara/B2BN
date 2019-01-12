@@ -1,0 +1,83 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media only screen and (max-width: 1024px) {
+	
+	.m-brand
+	{
+			    height: 38px!important;
+				width: 262px;
+	}
+	#m_aside_header_menu_mobile_toggle
+	{
+		display:none!important;
+	}
+	.m-brand__tools
+	{
+		float:none;
+	}
+	#m_header
+	{
+		 height: 45px!important;
+	}
+	.m-topbar
+	{
+		    height: 35px!important;
+			box-shadow:none;
+	}
+	#m_quick_sidebar_toggle a
+	{
+		margin-top:8px;
+	}
+	
+}
+
+@media only screen and (max-width: 768px) {
+
+.m-subheader .m-subheader__title
+{
+	    padding: 0px 25px 7px 0;
+}
+.agencycheck
+{
+	    position: static;
+    margin-top: 0;
+    padding-left: 15px;
+}
+.m-header--fixed-mobile .m-topbar
+{
+	    top: -100px;
+}
+.view-ageny-page .text-right
+{
+	text-align:left!important;
+}
+.agencies_list .row
+{
+	margin-bottom:0;
+}
+.agencies_list .col-md-6
+{
+	margin-bottom:15px;
+}
+.credit-accept-decline .col-md-6
+{
+	width:100%;
+}
+.credit-accept-decline .row
+{
+	display:block;
+}
+.credit-accept-decline .col-md-6
+{
+	display:block;
+}
+.topcurreny
+{
+	position:static;
+}
+.booking-refunf-agen
+{
+	margin:15px 0px!important;
+}
+}

@@ -1,0 +1,6 @@
+[08-Dec-2018 10:25:46 America/New_York] PHP Fatal error:  Interface 'Swift_Plugins_Logger' not found in /home/choizmfm/livebeds.com/demo/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Loggers/ArrayLogger.php on line 16
+[08-Dec-2018 10:25:49 America/New_York] PHP Fatal error:  Interface 'Swift_Plugins_Logger' not found in /home/choizmfm/livebeds.com/demo/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Loggers/EchoLogger.php on line 16
+[08-Dec-2018 19:35:54 America/New_York] PHP Fatal error:  Interface 'Swift_Plugins_Logger' not found in /home/choizmfm/livebeds.com/demo/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Loggers/ArrayLogger.php on line 16
+[08-Dec-2018 19:36:00 America/New_York] PHP Fatal error:  Interface 'Swift_Plugins_Logger' not found in /home/choizmfm/livebeds.com/demo/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Loggers/EchoLogger.php on line 16
+[08-Dec-2018 23:53:56 America/New_York] PHP Fatal error:  Interface 'Swift_Plugins_Logger' not found in /home/choizmfm/livebeds.com/demo/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Loggers/ArrayLogger.php on line 16
+[08-Dec-2018 23:54:03 America/New_York] PHP Fatal error:  Interface 'Swift_Plugins_Logger' not found in /home/choizmfm/livebeds.com/demo/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Loggers/EchoLogger.php on line 16

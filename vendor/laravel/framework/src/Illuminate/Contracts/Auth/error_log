@@ -1,0 +1,4 @@
+[07-Dec-2018 07:53:50 America/New_York] PHP Fatal error:  Interface 'Illuminate\Contracts\Auth\Guard' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Contracts/Auth/StatefulGuard.php on line 5
+[08-Dec-2018 01:47:21 America/New_York] PHP Fatal error:  Interface 'Illuminate\Contracts\Auth\Guard' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Contracts/Auth/StatefulGuard.php on line 5
+[08-Dec-2018 15:42:59 America/New_York] PHP Fatal error:  Interface 'Illuminate\Contracts\Auth\Guard' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Contracts/Auth/StatefulGuard.php on line 5
+[08-Dec-2018 20:03:38 America/New_York] PHP Fatal error:  Interface 'Illuminate\Contracts\Auth\Guard' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Contracts/Auth/StatefulGuard.php on line 5

@@ -1,0 +1,3 @@
+[06-Dec-2018 15:12:50 America/New_York] PHP Fatal error:  Class 'Hamcrest\DiagnosingMatcher' not found in /home/choizmfm/livebeds.com/demo/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php on line 17
+[07-Dec-2018 07:26:57 America/New_York] PHP Fatal error:  Class 'Hamcrest\DiagnosingMatcher' not found in /home/choizmfm/livebeds.com/demo/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php on line 17
+[08-Dec-2018 01:42:19 America/New_York] PHP Fatal error:  Class 'Hamcrest\DiagnosingMatcher' not found in /home/choizmfm/livebeds.com/demo/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php on line 17

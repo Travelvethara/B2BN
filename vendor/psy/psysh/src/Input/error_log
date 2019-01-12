@@ -1,0 +1,5 @@
+[06-Dec-2018 06:21:06 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Console\Input\InputArgument' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/src/Input/CodeArgument.php on line 30
+[06-Dec-2018 21:42:26 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Console\Input\StringInput' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/src/Input/ShellInput.php on line 20
+[06-Dec-2018 22:02:34 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Console\Input\InputArgument' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/src/Input/CodeArgument.php on line 30
+[07-Dec-2018 16:57:00 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Console\Input\InputArgument' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/src/Input/CodeArgument.php on line 30
+[07-Dec-2018 16:57:03 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Console\Input\StringInput' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/src/Input/ShellInput.php on line 20

@@ -1,0 +1,6 @@
+[06-Dec-2018 17:19:04 America/New_York] PHP Fatal error:  Interface 'Prophecy\Prophecy\ProphecyInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/phpspec/prophecy/src/Prophecy/Prophecy/ObjectProphecy.php on line 30
+[06-Dec-2018 17:19:32 America/New_York] PHP Fatal error:  Interface 'Prophecy\Prophecy\RevealerInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/phpspec/prophecy/src/Prophecy/Prophecy/Revealer.php on line 19
+[07-Dec-2018 13:35:55 America/New_York] PHP Fatal error:  Interface 'Prophecy\Prophecy\ProphecyInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/phpspec/prophecy/src/Prophecy/Prophecy/ObjectProphecy.php on line 30
+[07-Dec-2018 13:35:59 America/New_York] PHP Fatal error:  Interface 'Prophecy\Prophecy\RevealerInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/phpspec/prophecy/src/Prophecy/Prophecy/Revealer.php on line 19
+[08-Dec-2018 09:52:35 America/New_York] PHP Fatal error:  Interface 'Prophecy\Prophecy\ProphecyInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/phpspec/prophecy/src/Prophecy/Prophecy/ObjectProphecy.php on line 30
+[08-Dec-2018 09:52:39 America/New_York] PHP Fatal error:  Interface 'Prophecy\Prophecy\RevealerInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/phpspec/prophecy/src/Prophecy/Prophecy/Revealer.php on line 19

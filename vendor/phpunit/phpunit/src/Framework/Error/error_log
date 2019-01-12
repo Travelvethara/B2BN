@@ -1,0 +1,9 @@
+[06-Dec-2018 17:46:44 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_Error' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/src/Framework/Error/Deprecated.php on line 19
+[06-Dec-2018 17:46:48 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_Error' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/src/Framework/Error/Notice.php on line 19
+[06-Dec-2018 17:46:52 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_Error' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/src/Framework/Error/Warning.php on line 19
+[07-Dec-2018 16:30:29 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_Error' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/src/Framework/Error/Deprecated.php on line 19
+[07-Dec-2018 16:30:41 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_Error' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/src/Framework/Error/Notice.php on line 19
+[07-Dec-2018 16:30:46 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_Error' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/src/Framework/Error/Warning.php on line 19
+[08-Dec-2018 09:48:47 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_Error' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/src/Framework/Error/Deprecated.php on line 19
+[08-Dec-2018 09:49:07 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_Error' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/src/Framework/Error/Notice.php on line 19
+[08-Dec-2018 09:49:13 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_Error' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/src/Framework/Error/Warning.php on line 19

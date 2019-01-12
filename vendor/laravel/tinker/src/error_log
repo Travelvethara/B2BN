@@ -1,0 +1,4 @@
+[05-Dec-2018 20:54:17 America/New_York] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/tinker/src/TinkerServiceProvider.php on line 10
+[06-Dec-2018 03:07:06 America/New_York] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/tinker/src/TinkerServiceProvider.php on line 10
+[06-Dec-2018 15:45:19 America/New_York] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/tinker/src/TinkerServiceProvider.php on line 10
+[07-Jan-2019 12:31:27 America/New_York] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/tinker/src/TinkerServiceProvider.php on line 10

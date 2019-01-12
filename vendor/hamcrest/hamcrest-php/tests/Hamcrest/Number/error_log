@@ -1,0 +1,6 @@
+[06-Dec-2018 15:17:18 America/New_York] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/choizmfm/livebeds.com/demo/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Number/IsCloseToTest.php on line 4
+[06-Dec-2018 15:17:22 America/New_York] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/choizmfm/livebeds.com/demo/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Number/OrderingComparisonTest.php on line 4
+[07-Dec-2018 07:32:00 America/New_York] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/choizmfm/livebeds.com/demo/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Number/IsCloseToTest.php on line 4
+[07-Dec-2018 07:32:32 America/New_York] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/choizmfm/livebeds.com/demo/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Number/OrderingComparisonTest.php on line 4
+[08-Dec-2018 01:45:33 America/New_York] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/choizmfm/livebeds.com/demo/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Number/IsCloseToTest.php on line 4
+[08-Dec-2018 01:45:40 America/New_York] PHP Fatal error:  Class 'Hamcrest\AbstractMatcherTest' not found in /home/choizmfm/livebeds.com/demo/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Number/OrderingComparisonTest.php on line 4

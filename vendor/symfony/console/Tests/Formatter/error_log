@@ -1,0 +1,9 @@
+[06-Dec-2018 07:51:14 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Formatter/OutputFormatterStyleStackTest.php on line 18
+[06-Dec-2018 07:51:17 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Formatter/OutputFormatterStyleTest.php on line 17
+[06-Dec-2018 07:51:23 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Formatter/OutputFormatterTest.php on line 18
+[06-Dec-2018 23:05:37 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Formatter/OutputFormatterStyleStackTest.php on line 18
+[06-Dec-2018 23:05:59 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Formatter/OutputFormatterStyleTest.php on line 17
+[06-Dec-2018 23:06:09 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Formatter/OutputFormatterTest.php on line 18
+[07-Dec-2018 17:51:19 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Formatter/OutputFormatterStyleStackTest.php on line 18
+[07-Dec-2018 17:51:23 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Formatter/OutputFormatterStyleTest.php on line 17
+[07-Dec-2018 17:51:26 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Formatter/OutputFormatterTest.php on line 18

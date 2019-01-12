@@ -1,0 +1,3 @@
+[06-Dec-2018 03:34:10 America/New_York] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/monolog/monolog/src/Monolog/Logger.php on line 27
+[06-Dec-2018 16:10:45 America/New_York] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/monolog/monolog/src/Monolog/Logger.php on line 27
+[07-Dec-2018 12:37:41 America/New_York] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/monolog/monolog/src/Monolog/Logger.php on line 27

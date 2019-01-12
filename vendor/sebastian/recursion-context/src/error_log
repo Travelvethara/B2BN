@@ -1,0 +1,4 @@
+[05-Dec-2018 22:03:07 America/New_York] PHP Fatal error:  Interface 'SebastianBergmann\RecursionContext\Exception' not found in /home/choizmfm/livebeds.com/demo/vendor/sebastian/recursion-context/src/InvalidArgumentException.php on line 15
+[06-Dec-2018 07:13:23 America/New_York] PHP Fatal error:  Interface 'SebastianBergmann\RecursionContext\Exception' not found in /home/choizmfm/livebeds.com/demo/vendor/sebastian/recursion-context/src/InvalidArgumentException.php on line 15
+[06-Dec-2018 22:27:04 America/New_York] PHP Fatal error:  Interface 'SebastianBergmann\RecursionContext\Exception' not found in /home/choizmfm/livebeds.com/demo/vendor/sebastian/recursion-context/src/InvalidArgumentException.php on line 15
+[07-Jan-2019 13:40:11 America/New_York] PHP Fatal error:  Interface 'SebastianBergmann\RecursionContext\Exception' not found in /home/choizmfm/livebeds.com/demo/vendor/sebastian/recursion-context/src/InvalidArgumentException.php on line 15

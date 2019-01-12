@@ -1,0 +1,50 @@
+[11-Oct-2018 10:48:23 UTC] PHP Warning:  file_get_contents(https://finance.google.com/finance/converter?a=12&amp;from=INR&amp;to=USD): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/ehotelscom/public_html/test/convert_currency.php on line 8
+[11-Oct-2018 10:48:23 UTC] PHP Notice:  Undefined offset: 1 in /home/ehotelscom/public_html/test/convert_currency.php on line 10
+[11-Oct-2018 10:48:58 UTC] PHP Warning:  file_get_contents(https://finance.google.com/finance/converter?a=12&amp;from=INR&amp;to=USD): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/ehotelscom/public_html/test/convert_currency.php on line 8
+[11-Oct-2018 10:48:58 UTC] PHP Notice:  Undefined offset: 1 in /home/ehotelscom/public_html/test/convert_currency.php on line 10
+[11-Oct-2018 10:49:27 UTC] PHP Warning:  file_get_contents(https://finance.google.com/finance/converter?a=12&amp;from=INR&amp;to=USD): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/ehotelscom/public_html/test/convert_currency.php on line 8
+[11-Oct-2018 10:49:27 UTC] PHP Notice:  Undefined offset: 1 in /home/ehotelscom/public_html/test/convert_currency.php on line 11
+[11-Oct-2018 10:50:12 UTC] PHP Warning:  file_get_contents(https://finance.google.com/finance/converter?a=12&amp;from=INR&amp;to=USD): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/ehotelscom/public_html/test/convert_currency.php on line 8
+[11-Oct-2018 11:12:39 UTC] PHP Notice:  Undefined index: INR_USD in /home/ehotelscom/public_html/test/convert_currency.php on line 18
+[05-Dec-2018 06:56:06 America/New_York] PHP Notice:  Undefined index: INR_USD in /home/choizmfm/livebeds.com/demo/convert_currency.php on line 18
+[05-Dec-2018 13:19:31 America/New_York] PHP Notice:  Undefined index: INR_USD in /home/choizmfm/livebeds.com/demo/convert_currency.php on line 18
+[07-Dec-2018 15:51:00 America/New_York] PHP Notice:  Undefined index: INR_USD in /home/choizmfm/livebeds.com/demo/convert_currency.php on line 18
+[07-Dec-2018 20:55:11 America/New_York] PHP Notice:  Undefined index: INR_USD in /home/choizmfm/livebeds.com/demo/convert_currency.php on line 18
+[14-Dec-2018 18:11:26 America/New_York] PHP Notice:  Undefined index: INR_USD in /home/choizmfm/livebeds.com/demo/convert_currency.php on line 18
+[14-Dec-2018 18:11:33 America/New_York] PHP Notice:  Undefined index: req-email in /home/choizmfm/livebeds.com/demo/mail.php on line 9
+[14-Dec-2018 18:11:33 America/New_York] PHP Notice:  Undefined index: req-email in /home/choizmfm/livebeds.com/demo/mail.php on line 10
+[20-Dec-2018 14:45:56 America/New_York] PHP Notice:  Undefined index: INR_USD in /home/choizmfm/livebeds.com/demo/convert_currency.php on line 18
+[20-Dec-2018 14:46:21 America/New_York] PHP Notice:  Undefined index: req-email in /home/choizmfm/livebeds.com/demo/mail.php on line 9
+[20-Dec-2018 14:46:21 America/New_York] PHP Notice:  Undefined index: req-email in /home/choizmfm/livebeds.com/demo/mail.php on line 10
+[30-Dec-2018 06:22:52 America/New_York] PHP Notice:  Undefined index: req-email in /home/choizmfm/livebeds.com/demo/mail.php on line 9
+[30-Dec-2018 06:22:52 America/New_York] PHP Notice:  Undefined index: req-email in /home/choizmfm/livebeds.com/demo/mail.php on line 10
+[30-Dec-2018 07:28:36 America/New_York] PHP Notice:  Undefined index: INR_USD in /home/choizmfm/livebeds.com/demo/convert_currency.php on line 18
+[30-Dec-2018 07:28:38 America/New_York] PHP Notice:  Undefined index: req-email in /home/choizmfm/livebeds.com/demo/mail.php on line 9
+[30-Dec-2018 07:28:38 America/New_York] PHP Notice:  Undefined index: req-email in /home/choizmfm/livebeds.com/demo/mail.php on line 10
+[01-Jan-2019 05:43:05 America/New_York] PHP Notice:  Undefined index: req-email in /home/choizmfm/livebeds.com/demo/mail.php on line 9
+[01-Jan-2019 05:43:05 America/New_York] PHP Notice:  Undefined index: req-email in /home/choizmfm/livebeds.com/demo/mail.php on line 10
+[03-Jan-2019 19:14:34 America/New_York] PHP Fatal error:  Uncaught Exception: String could not be parsed as XML in /home/choizmfm/livebeds.com/demo/HotelSearchWithRoomsHotelCodeBased.php:73
+Stack trace:
+#0 /home/choizmfm/livebeds.com/demo/HotelSearchWithRoomsHotelCodeBased.php(73): SimpleXMLElement->__construct('')
+#1 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/HotelSearchWithRoomsHotelCodeBased.php on line 73
+[05-Jan-2019 12:31:58 America/New_York] PHP Fatal error:  Uncaught Exception: String could not be parsed as XML in /home/choizmfm/livebeds.com/demo/HotelSearchWithRoomsHotelCodeBased.php:73
+Stack trace:
+#0 /home/choizmfm/livebeds.com/demo/HotelSearchWithRoomsHotelCodeBased.php(73): SimpleXMLElement->__construct('')
+#1 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/HotelSearchWithRoomsHotelCodeBased.php on line 73
+[05-Jan-2019 12:32:10 America/New_York] PHP Notice:  Undefined index: INR_USD in /home/choizmfm/livebeds.com/demo/convert_currency.php on line 18
+[05-Jan-2019 19:16:14 America/New_York] PHP Fatal error:  Uncaught Exception: String could not be parsed as XML in /home/choizmfm/livebeds.com/demo/HotelSearchWithRoomsHotelCodeBased.php:73
+Stack trace:
+#0 /home/choizmfm/livebeds.com/demo/HotelSearchWithRoomsHotelCodeBased.php(73): SimpleXMLElement->__construct('')
+#1 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/HotelSearchWithRoomsHotelCodeBased.php on line 73
+[06-Jan-2019 05:43:15 America/New_York] PHP Fatal error:  Uncaught Exception: String could not be parsed as XML in /home/choizmfm/livebeds.com/demo/HotelSearchWithRoomsHotelCodeBased.php:73
+Stack trace:
+#0 /home/choizmfm/livebeds.com/demo/HotelSearchWithRoomsHotelCodeBased.php(73): SimpleXMLElement->__construct('')
+#1 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/HotelSearchWithRoomsHotelCodeBased.php on line 73

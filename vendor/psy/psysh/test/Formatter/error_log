@@ -1,0 +1,9 @@
+[06-Dec-2018 06:35:36 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/Formatter/CodeFormatterTest.php on line 16
+[06-Dec-2018 06:35:39 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/Formatter/DocblockFormatterTest.php on line 16
+[06-Dec-2018 06:35:43 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/Formatter/SignatureFormatterTest.php on line 17
+[06-Dec-2018 21:56:14 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/Formatter/CodeFormatterTest.php on line 16
+[06-Dec-2018 21:56:20 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/Formatter/DocblockFormatterTest.php on line 16
+[06-Dec-2018 21:56:25 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/Formatter/SignatureFormatterTest.php on line 17
+[07-Dec-2018 17:06:46 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/Formatter/CodeFormatterTest.php on line 16
+[07-Dec-2018 17:06:51 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/Formatter/DocblockFormatterTest.php on line 16
+[07-Dec-2018 17:06:55 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/Formatter/SignatureFormatterTest.php on line 17

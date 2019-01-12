@@ -1,0 +1,3 @@
+[06-Dec-2018 21:34:23 America/New_York] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/src/Util/TestDox/ResultPrinter.php on line 14
+[07-Dec-2018 16:18:23 America/New_York] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/src/Util/TestDox/ResultPrinter.php on line 14
+[08-Dec-2018 09:52:22 America/New_York] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/src/Util/TestDox/ResultPrinter.php on line 14

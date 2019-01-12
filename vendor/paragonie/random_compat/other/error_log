@@ -1,0 +1,20 @@
+[05-Dec-2018 21:09:28 America/New_York] PHP Fatal error:  Uncaught UnexpectedValueException: creating archive "/home/choizmfm/livebeds.com/demo/vendor/paragonie/random_compat/dist/random_compat.phar" disabled by the php.ini setting phar.readonly in /home/choizmfm/livebeds.com/demo/vendor/paragonie/random_compat/other/build_phar.php:12
+Stack trace:
+#0 /home/choizmfm/livebeds.com/demo/vendor/paragonie/random_compat/other/build_phar.php(12): Phar->__construct('/home/choizmfm/...', 256, 'random_compat.p...')
+#1 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/vendor/paragonie/random_compat/other/build_phar.php on line 12
+[06-Dec-2018 05:12:08 America/New_York] PHP Fatal error:  Uncaught UnexpectedValueException: creating archive "/home/choizmfm/livebeds.com/demo/vendor/paragonie/random_compat/dist/random_compat.phar" disabled by the php.ini setting phar.readonly in /home/choizmfm/livebeds.com/demo/vendor/paragonie/random_compat/other/build_phar.php:12
+Stack trace:
+#0 /home/choizmfm/livebeds.com/demo/vendor/paragonie/random_compat/other/build_phar.php(12): Phar->__construct('/home/choizmfm/...', 256, 'random_compat.p...')
+#1 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/vendor/paragonie/random_compat/other/build_phar.php on line 12
+[06-Dec-2018 17:05:39 America/New_York] PHP Fatal error:  Uncaught UnexpectedValueException: creating archive "/home/choizmfm/livebeds.com/demo/vendor/paragonie/random_compat/dist/random_compat.phar" disabled by the php.ini setting phar.readonly in /home/choizmfm/livebeds.com/demo/vendor/paragonie/random_compat/other/build_phar.php:12
+Stack trace:
+#0 /home/choizmfm/livebeds.com/demo/vendor/paragonie/random_compat/other/build_phar.php(12): Phar->__construct('/home/choizmfm/...', 256, 'random_compat.p...')
+#1 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/vendor/paragonie/random_compat/other/build_phar.php on line 12
+[07-Jan-2019 12:55:26 America/New_York] PHP Fatal error:  Uncaught UnexpectedValueException: creating archive "/home/choizmfm/livebeds.com/demo/vendor/paragonie/random_compat/dist/random_compat.phar" disabled by the php.ini setting phar.readonly in /home/choizmfm/livebeds.com/demo/vendor/paragonie/random_compat/other/build_phar.php:12
+Stack trace:
+#0 /home/choizmfm/livebeds.com/demo/vendor/paragonie/random_compat/other/build_phar.php(12): Phar->__construct('/home/choizmfm/...', 256, 'random_compat.p...')
+#1 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/vendor/paragonie/random_compat/other/build_phar.php on line 12

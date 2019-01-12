@@ -1,0 +1,6 @@
+[06-Dec-2018 17:37:31 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit-mock-objects/tests/MockObject/Invocation/ObjectTest.php on line 2
+[06-Dec-2018 17:37:33 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit-mock-objects/tests/MockObject/Invocation/StaticTest.php on line 2
+[07-Dec-2018 16:22:09 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit-mock-objects/tests/MockObject/Invocation/ObjectTest.php on line 2
+[07-Dec-2018 16:22:13 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit-mock-objects/tests/MockObject/Invocation/StaticTest.php on line 2
+[08-Dec-2018 10:07:31 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit-mock-objects/tests/MockObject/Invocation/ObjectTest.php on line 2
+[08-Dec-2018 10:07:36 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit-mock-objects/tests/MockObject/Invocation/StaticTest.php on line 2

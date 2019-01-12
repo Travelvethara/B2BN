@@ -1,0 +1,3 @@
+[06-Dec-2018 12:32:42 America/New_York] PHP Fatal error:  Interface 'Doctrine\Instantiator\InstantiatorInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/doctrine/instantiator/src/Doctrine/Instantiator/Instantiator.php on line 32
+[07-Dec-2018 03:25:58 America/New_York] PHP Fatal error:  Interface 'Doctrine\Instantiator\InstantiatorInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/doctrine/instantiator/src/Doctrine/Instantiator/Instantiator.php on line 32
+[07-Dec-2018 21:31:40 America/New_York] PHP Fatal error:  Interface 'Doctrine\Instantiator\InstantiatorInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/doctrine/instantiator/src/Doctrine/Instantiator/Instantiator.php on line 32

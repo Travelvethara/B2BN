@@ -1,0 +1,6 @@
+[06-Dec-2018 10:03:17 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Tester/ApplicationTesterTest.php on line 19
+[06-Dec-2018 10:03:33 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Tester/CommandTesterTest.php on line 24
+[06-Dec-2018 23:12:48 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Tester/ApplicationTesterTest.php on line 19
+[06-Dec-2018 23:12:55 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Tester/CommandTesterTest.php on line 24
+[07-Dec-2018 17:53:25 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Tester/ApplicationTesterTest.php on line 19
+[07-Dec-2018 17:53:29 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Tester/CommandTesterTest.php on line 24

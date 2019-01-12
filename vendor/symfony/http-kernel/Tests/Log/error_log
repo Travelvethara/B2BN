@@ -1,0 +1,3 @@
+[06-Dec-2018 10:43:36 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/http-kernel/Tests/Log/LoggerTest.php on line 23
+[07-Dec-2018 02:34:48 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/http-kernel/Tests/Log/LoggerTest.php on line 23
+[07-Dec-2018 21:27:44 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/http-kernel/Tests/Log/LoggerTest.php on line 23

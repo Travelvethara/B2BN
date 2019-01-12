@@ -1,0 +1,2 @@
+[05-Dec-2018 21:00:47 America/New_York] PHP Notice:  Undefined variable: requestall in /home/choizmfm/livebeds.com/demo/resources/views/pdf/voucher/voucher.blade.php on line 3
+[07-Jan-2019 11:50:37 America/New_York] PHP Notice:  Undefined variable: requestall in /home/choizmfm/livebeds.com/demo/resources/views/pdf/voucher/voucher.blade.php on line 3

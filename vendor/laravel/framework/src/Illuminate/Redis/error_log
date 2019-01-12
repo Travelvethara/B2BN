@@ -1,0 +1,6 @@
+[06-Dec-2018 15:33:36 America/New_York] PHP Fatal error:  Interface 'Illuminate\Contracts\Redis\Factory' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Redis/RedisManager.php on line 12
+[06-Dec-2018 15:33:40 America/New_York] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Redis/RedisServiceProvider.php on line 8
+[07-Dec-2018 12:05:01 America/New_York] PHP Fatal error:  Interface 'Illuminate\Contracts\Redis\Factory' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Redis/RedisManager.php on line 12
+[07-Dec-2018 12:05:06 America/New_York] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Redis/RedisServiceProvider.php on line 8
+[08-Dec-2018 05:32:37 America/New_York] PHP Fatal error:  Interface 'Illuminate\Contracts\Redis\Factory' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Redis/RedisManager.php on line 12
+[08-Dec-2018 05:32:39 America/New_York] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Redis/RedisServiceProvider.php on line 8

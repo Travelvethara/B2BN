@@ -1,0 +1,9 @@
+[07-Dec-2018 16:18:43 America/New_York] PHP Fatal error:  Class 'PHPUnit_Util_TestDox_ResultPrinter' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/src/Util/TestDox/ResultPrinter/HTML.php on line 14
+[07-Dec-2018 16:18:47 America/New_York] PHP Fatal error:  Class 'PHPUnit_Util_TestDox_ResultPrinter' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/src/Util/TestDox/ResultPrinter/Text.php on line 14
+[07-Dec-2018 16:18:50 America/New_York] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/src/Util/TestDox/ResultPrinter/XML.php on line 11
+[08-Dec-2018 09:52:48 America/New_York] PHP Fatal error:  Class 'PHPUnit_Util_TestDox_ResultPrinter' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/src/Util/TestDox/ResultPrinter/HTML.php on line 14
+[08-Dec-2018 09:52:52 America/New_York] PHP Fatal error:  Class 'PHPUnit_Util_TestDox_ResultPrinter' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/src/Util/TestDox/ResultPrinter/Text.php on line 14
+[08-Dec-2018 09:52:57 America/New_York] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/src/Util/TestDox/ResultPrinter/XML.php on line 11
+[08-Dec-2018 19:18:48 America/New_York] PHP Fatal error:  Class 'PHPUnit_Util_TestDox_ResultPrinter' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/src/Util/TestDox/ResultPrinter/HTML.php on line 14
+[08-Dec-2018 19:18:52 America/New_York] PHP Fatal error:  Class 'PHPUnit_Util_TestDox_ResultPrinter' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/src/Util/TestDox/ResultPrinter/Text.php on line 14
+[08-Dec-2018 19:18:56 America/New_York] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/src/Util/TestDox/ResultPrinter/XML.php on line 11

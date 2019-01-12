@@ -1,0 +1,12 @@
+[06-Dec-2018 05:06:36 America/New_York] PHP Fatal error:  Interface 'PhpParser\Node' not found in /home/choizmfm/livebeds.com/demo/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php on line 7
+[06-Dec-2018 05:06:46 America/New_York] PHP Fatal error:  Interface 'PhpParser\NodeTraverserInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php on line 5
+[06-Dec-2018 05:07:00 America/New_York] PHP Fatal error:  Interface 'PhpParser\NodeVisitor' not found in /home/choizmfm/livebeds.com/demo/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php on line 8
+[06-Dec-2018 05:07:09 America/New_York] PHP Fatal error:  Interface 'PhpParser\Parser' not found in /home/choizmfm/livebeds.com/demo/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php on line 24
+[06-Dec-2018 16:50:40 America/New_York] PHP Fatal error:  Interface 'PhpParser\Node' not found in /home/choizmfm/livebeds.com/demo/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php on line 7
+[06-Dec-2018 16:50:45 America/New_York] PHP Fatal error:  Interface 'PhpParser\NodeTraverserInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php on line 5
+[06-Dec-2018 16:51:32 America/New_York] PHP Fatal error:  Interface 'PhpParser\NodeVisitor' not found in /home/choizmfm/livebeds.com/demo/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php on line 8
+[06-Dec-2018 16:52:17 America/New_York] PHP Fatal error:  Interface 'PhpParser\Parser' not found in /home/choizmfm/livebeds.com/demo/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php on line 24
+[07-Dec-2018 13:12:45 America/New_York] PHP Fatal error:  Interface 'PhpParser\Node' not found in /home/choizmfm/livebeds.com/demo/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php on line 7
+[07-Dec-2018 13:12:48 America/New_York] PHP Fatal error:  Interface 'PhpParser\NodeTraverserInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php on line 5
+[07-Dec-2018 13:13:18 America/New_York] PHP Fatal error:  Interface 'PhpParser\NodeVisitor' not found in /home/choizmfm/livebeds.com/demo/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php on line 8
+[07-Dec-2018 13:13:41 America/New_York] PHP Fatal error:  Interface 'PhpParser\Parser' not found in /home/choizmfm/livebeds.com/demo/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php on line 24

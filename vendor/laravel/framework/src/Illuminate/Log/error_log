@@ -1,0 +1,6 @@
+[06-Dec-2018 15:24:01 America/New_York] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Log/LogServiceProvider.php on line 8
+[06-Dec-2018 15:24:05 America/New_York] PHP Fatal error:  Interface 'Illuminate\Contracts\Logging\Log' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Log/Writer.php on line 21
+[07-Dec-2018 11:55:58 America/New_York] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Log/LogServiceProvider.php on line 8
+[07-Dec-2018 11:56:03 America/New_York] PHP Fatal error:  Interface 'Illuminate\Contracts\Logging\Log' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Log/Writer.php on line 21
+[08-Dec-2018 02:49:23 America/New_York] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Log/LogServiceProvider.php on line 8
+[08-Dec-2018 02:49:25 America/New_York] PHP Fatal error:  Interface 'Illuminate\Contracts\Logging\Log' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Log/Writer.php on line 21

@@ -1,0 +1,6 @@
+[06-Dec-2018 16:00:28 America/New_York] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/choizmfm/livebeds.com/demo/vendor/mockery/mockery/tests/Mockery/Fixtures/MethodWithNullableParameters.php on line 30
+[06-Dec-2018 16:00:33 America/New_York] PHP Parse error:  syntax error, unexpected '?' in /home/choizmfm/livebeds.com/demo/vendor/mockery/mockery/tests/Mockery/Fixtures/MethodWithNullableReturnType.php on line 33
+[07-Dec-2018 12:22:16 America/New_York] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/choizmfm/livebeds.com/demo/vendor/mockery/mockery/tests/Mockery/Fixtures/MethodWithNullableParameters.php on line 30
+[07-Dec-2018 12:22:21 America/New_York] PHP Parse error:  syntax error, unexpected '?' in /home/choizmfm/livebeds.com/demo/vendor/mockery/mockery/tests/Mockery/Fixtures/MethodWithNullableReturnType.php on line 33
+[08-Dec-2018 05:48:17 America/New_York] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/choizmfm/livebeds.com/demo/vendor/mockery/mockery/tests/Mockery/Fixtures/MethodWithNullableParameters.php on line 30
+[08-Dec-2018 05:48:22 America/New_York] PHP Parse error:  syntax error, unexpected '?' in /home/choizmfm/livebeds.com/demo/vendor/mockery/mockery/tests/Mockery/Fixtures/MethodWithNullableReturnType.php on line 33

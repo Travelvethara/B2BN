@@ -1,0 +1,16 @@
+[05-Dec-2018 22:43:35 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/Tests/DebugClassLoaderTest.php on line 18
+[05-Dec-2018 22:43:50 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/Tests/ErrorHandlerTest.php on line 26
+[05-Dec-2018 22:44:05 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/Tests/ExceptionHandlerTest.php on line 22
+[05-Dec-2018 22:44:38 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Debug\ExceptionHandler' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/Tests/MockExceptionHandler.php on line 16
+[06-Dec-2018 09:57:38 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Debug\ExceptionHandler' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/Tests/MockExceptionHandler.php on line 16
+[06-Dec-2018 10:32:48 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/Tests/DebugClassLoaderTest.php on line 18
+[06-Dec-2018 10:32:58 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/Tests/ErrorHandlerTest.php on line 26
+[06-Dec-2018 10:34:18 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/Tests/ExceptionHandlerTest.php on line 22
+[06-Dec-2018 23:32:05 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/Tests/DebugClassLoaderTest.php on line 18
+[06-Dec-2018 23:32:13 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/Tests/ErrorHandlerTest.php on line 26
+[06-Dec-2018 23:33:06 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/Tests/ExceptionHandlerTest.php on line 22
+[06-Dec-2018 23:37:12 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Debug\ExceptionHandler' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/Tests/MockExceptionHandler.php on line 16
+[07-Jan-2019 16:30:23 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/Tests/DebugClassLoaderTest.php on line 18
+[07-Jan-2019 16:30:27 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/Tests/ErrorHandlerTest.php on line 26
+[07-Jan-2019 16:30:34 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/Tests/ExceptionHandlerTest.php on line 22
+[07-Jan-2019 16:30:56 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Debug\ExceptionHandler' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/Tests/MockExceptionHandler.php on line 16

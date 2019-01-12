@@ -1,0 +1,4 @@
+[05-Dec-2018 22:15:22 America/New_York] PHP Fatal error:  Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/EventListener/ErrorListener.php on line 25
+[06-Dec-2018 07:32:23 America/New_York] PHP Fatal error:  Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/EventListener/ErrorListener.php on line 25
+[06-Dec-2018 22:50:17 America/New_York] PHP Fatal error:  Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/EventListener/ErrorListener.php on line 25
+[07-Jan-2019 13:47:03 America/New_York] PHP Fatal error:  Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/EventListener/ErrorListener.php on line 25

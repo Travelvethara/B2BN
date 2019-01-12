@@ -1,0 +1,6 @@
+[06-Dec-2018 16:46:44 America/New_York] PHP Fatal error:  Interface 'PhpParser\ErrorHandler' not found in /home/choizmfm/livebeds.com/demo/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[06-Dec-2018 16:46:54 America/New_York] PHP Fatal error:  Interface 'PhpParser\ErrorHandler' not found in /home/choizmfm/livebeds.com/demo/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[07-Dec-2018 13:00:18 America/New_York] PHP Fatal error:  Interface 'PhpParser\ErrorHandler' not found in /home/choizmfm/livebeds.com/demo/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[07-Dec-2018 13:00:35 America/New_York] PHP Fatal error:  Interface 'PhpParser\ErrorHandler' not found in /home/choizmfm/livebeds.com/demo/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[08-Dec-2018 05:53:05 America/New_York] PHP Fatal error:  Interface 'PhpParser\ErrorHandler' not found in /home/choizmfm/livebeds.com/demo/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[08-Dec-2018 05:53:10 America/New_York] PHP Fatal error:  Interface 'PhpParser\ErrorHandler' not found in /home/choizmfm/livebeds.com/demo/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13

@@ -1,0 +1,8 @@
+[05-Dec-2018 22:37:06 America/New_York] PHP Fatal error:  Interface 'Symfony\Component\CssSelector\Parser\ParserInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/css-selector/Parser/Parser.php on line 28
+[05-Dec-2018 22:37:25 America/New_York] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/choizmfm/livebeds.com/demo/vendor/symfony/css-selector/Parser/Token.php on line 38
+[06-Dec-2018 10:11:41 America/New_York] PHP Fatal error:  Interface 'Symfony\Component\CssSelector\Parser\ParserInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/css-selector/Parser/Parser.php on line 28
+[06-Dec-2018 10:13:28 America/New_York] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/choizmfm/livebeds.com/demo/vendor/symfony/css-selector/Parser/Token.php on line 38
+[06-Dec-2018 23:16:19 America/New_York] PHP Fatal error:  Interface 'Symfony\Component\CssSelector\Parser\ParserInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/css-selector/Parser/Parser.php on line 28
+[06-Dec-2018 23:17:38 America/New_York] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/choizmfm/livebeds.com/demo/vendor/symfony/css-selector/Parser/Token.php on line 38
+[07-Jan-2019 16:25:04 America/New_York] PHP Fatal error:  Interface 'Symfony\Component\CssSelector\Parser\ParserInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/css-selector/Parser/Parser.php on line 28
+[07-Jan-2019 16:25:20 America/New_York] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/choizmfm/livebeds.com/demo/vendor/symfony/css-selector/Parser/Token.php on line 38

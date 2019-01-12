@@ -1,0 +1,9 @@
+[05-Dec-2018 22:00:17 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/sebastian/global-state/tests/BlacklistTest.php on line 17
+[05-Dec-2018 22:00:21 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/sebastian/global-state/tests/SnapshotTest.php on line 19
+[06-Dec-2018 07:08:46 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/sebastian/global-state/tests/SnapshotTest.php on line 19
+[06-Dec-2018 22:24:36 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/sebastian/global-state/tests/BlacklistTest.php on line 17
+[06-Dec-2018 22:24:43 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/sebastian/global-state/tests/SnapshotTest.php on line 19
+[07-Dec-2018 17:16:45 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/sebastian/global-state/tests/BlacklistTest.php on line 17
+[07-Dec-2018 17:16:49 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/sebastian/global-state/tests/SnapshotTest.php on line 19
+[07-Jan-2019 13:38:10 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/sebastian/global-state/tests/BlacklistTest.php on line 17
+[07-Jan-2019 13:38:14 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/sebastian/global-state/tests/SnapshotTest.php on line 19

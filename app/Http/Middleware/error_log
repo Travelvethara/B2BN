@@ -1,0 +1,15 @@
+[05-Dec-2018 17:48:40 America/New_York] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/choizmfm/livebeds.com/demo/app/Http/Middleware/EncryptCookies.php on line 7
+[05-Dec-2018 17:48:49 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/choizmfm/livebeds.com/demo/app/Http/Middleware/TrimStrings.php on line 7
+[05-Dec-2018 17:48:52 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/choizmfm/livebeds.com/demo/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[05-Dec-2018 20:38:54 America/New_York] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/choizmfm/livebeds.com/demo/app/Http/Middleware/EncryptCookies.php on line 7
+[05-Dec-2018 20:38:57 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/choizmfm/livebeds.com/demo/app/Http/Middleware/TrimStrings.php on line 7
+[05-Dec-2018 20:39:03 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/choizmfm/livebeds.com/demo/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[06-Dec-2018 01:09:29 America/New_York] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/choizmfm/livebeds.com/demo/app/Http/Middleware/EncryptCookies.php on line 7
+[06-Dec-2018 01:09:34 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/choizmfm/livebeds.com/demo/app/Http/Middleware/TrimStrings.php on line 7
+[06-Dec-2018 01:09:40 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/choizmfm/livebeds.com/demo/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[06-Jan-2019 20:40:17 America/New_York] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/choizmfm/livebeds.com/demo/app/Http/Middleware/EncryptCookies.php on line 7
+[06-Jan-2019 20:40:23 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/choizmfm/livebeds.com/demo/app/Http/Middleware/TrimStrings.php on line 7
+[06-Jan-2019 20:40:25 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/choizmfm/livebeds.com/demo/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[07-Jan-2019 11:41:53 America/New_York] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/choizmfm/livebeds.com/demo/app/Http/Middleware/EncryptCookies.php on line 7
+[07-Jan-2019 11:41:56 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/choizmfm/livebeds.com/demo/app/Http/Middleware/TrimStrings.php on line 7
+[07-Jan-2019 11:41:58 America/New_York] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/choizmfm/livebeds.com/demo/app/Http/Middleware/VerifyCsrfToken.php on line 7

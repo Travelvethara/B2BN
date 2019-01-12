@@ -1,0 +1,6 @@
+[06-Dec-2018 06:04:19 America/New_York] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/psr/log/Psr/Log/AbstractLogger.php on line 12
+[06-Dec-2018 06:05:21 America/New_York] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/choizmfm/livebeds.com/demo/vendor/psr/log/Psr/Log/NullLogger.php on line 13
+[06-Dec-2018 21:41:33 America/New_York] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/psr/log/Psr/Log/AbstractLogger.php on line 12
+[06-Dec-2018 21:41:43 America/New_York] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/choizmfm/livebeds.com/demo/vendor/psr/log/Psr/Log/NullLogger.php on line 13
+[07-Dec-2018 16:49:05 America/New_York] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/psr/log/Psr/Log/AbstractLogger.php on line 12
+[07-Dec-2018 16:49:10 America/New_York] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/choizmfm/livebeds.com/demo/vendor/psr/log/Psr/Log/NullLogger.php on line 13

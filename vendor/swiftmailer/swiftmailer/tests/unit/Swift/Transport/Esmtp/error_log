@@ -1,0 +1,3 @@
+[08-Dec-2018 14:35:11 America/New_York] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Transport/Esmtp/AuthHandlerTest.php on line 3
+[08-Dec-2018 19:57:30 America/New_York] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Transport/Esmtp/AuthHandlerTest.php on line 3
+[09-Dec-2018 00:06:20 America/New_York] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Transport/Esmtp/AuthHandlerTest.php on line 3

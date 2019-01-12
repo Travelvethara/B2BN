@@ -1,0 +1,3 @@
+[07-Dec-2018 08:08:48 America/New_York] PHP Fatal error:  Interface 'Illuminate\Contracts\Cookie\Factory' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Contracts/Cookie/QueueingFactory.php on line 5
+[08-Dec-2018 01:58:08 America/New_York] PHP Fatal error:  Interface 'Illuminate\Contracts\Cookie\Factory' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Contracts/Cookie/QueueingFactory.php on line 5
+[08-Dec-2018 15:43:25 America/New_York] PHP Fatal error:  Interface 'Illuminate\Contracts\Cookie\Factory' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Contracts/Cookie/QueueingFactory.php on line 5

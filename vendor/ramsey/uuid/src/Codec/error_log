@@ -1,0 +1,15 @@
+[06-Dec-2018 06:43:36 America/New_York] PHP Fatal error:  Class 'Ramsey\Uuid\Codec\StringCodec' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/Codec/GuidStringCodec.php on line 24
+[06-Dec-2018 06:43:42 America/New_York] PHP Fatal error:  Class 'Ramsey\Uuid\Codec\StringCodec' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/Codec/OrderedTimeCodec.php on line 23
+[06-Dec-2018 06:43:47 America/New_York] PHP Fatal error:  Interface 'Ramsey\Uuid\Codec\CodecInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/Codec/StringCodec.php on line 28
+[06-Dec-2018 06:43:53 America/New_York] PHP Fatal error:  Class 'Ramsey\Uuid\Codec\StringCodec' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/Codec/TimestampFirstCombCodec.php on line 22
+[06-Dec-2018 06:44:01 America/New_York] PHP Fatal error:  Class 'Ramsey\Uuid\Codec\StringCodec' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/Codec/TimestampLastCombCodec.php on line 20
+[06-Dec-2018 22:08:15 America/New_York] PHP Fatal error:  Class 'Ramsey\Uuid\Codec\StringCodec' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/Codec/GuidStringCodec.php on line 24
+[06-Dec-2018 22:08:23 America/New_York] PHP Fatal error:  Class 'Ramsey\Uuid\Codec\StringCodec' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/Codec/OrderedTimeCodec.php on line 23
+[06-Dec-2018 22:08:30 America/New_York] PHP Fatal error:  Interface 'Ramsey\Uuid\Codec\CodecInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/Codec/StringCodec.php on line 28
+[06-Dec-2018 22:08:35 America/New_York] PHP Fatal error:  Class 'Ramsey\Uuid\Codec\StringCodec' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/Codec/TimestampFirstCombCodec.php on line 22
+[06-Dec-2018 22:08:41 America/New_York] PHP Fatal error:  Class 'Ramsey\Uuid\Codec\StringCodec' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/Codec/TimestampLastCombCodec.php on line 20
+[07-Dec-2018 17:11:23 America/New_York] PHP Fatal error:  Class 'Ramsey\Uuid\Codec\StringCodec' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/Codec/GuidStringCodec.php on line 24
+[07-Dec-2018 17:11:27 America/New_York] PHP Fatal error:  Class 'Ramsey\Uuid\Codec\StringCodec' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/Codec/OrderedTimeCodec.php on line 23
+[07-Dec-2018 17:11:30 America/New_York] PHP Fatal error:  Interface 'Ramsey\Uuid\Codec\CodecInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/Codec/StringCodec.php on line 28
+[07-Dec-2018 17:11:51 America/New_York] PHP Fatal error:  Class 'Ramsey\Uuid\Codec\StringCodec' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/Codec/TimestampFirstCombCodec.php on line 22
+[07-Dec-2018 17:11:54 America/New_York] PHP Fatal error:  Class 'Ramsey\Uuid\Codec\StringCodec' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/Codec/TimestampLastCombCodec.php on line 20

@@ -1,0 +1,12 @@
+[06-Dec-2018 06:36:45 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/Readline/GNUReadlineTest.php on line 16
+[06-Dec-2018 06:36:49 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/Readline/HoaConsoleTest.php on line 16
+[06-Dec-2018 06:36:56 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/Readline/LibeditTest.php on line 16
+[06-Dec-2018 06:37:02 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/Readline/TransientTest.php on line 16
+[06-Dec-2018 21:57:35 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/Readline/GNUReadlineTest.php on line 16
+[06-Dec-2018 21:57:39 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/Readline/HoaConsoleTest.php on line 16
+[06-Dec-2018 21:57:44 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/Readline/LibeditTest.php on line 16
+[06-Dec-2018 21:57:49 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/Readline/TransientTest.php on line 16
+[07-Dec-2018 17:07:23 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/Readline/GNUReadlineTest.php on line 16
+[07-Dec-2018 17:07:29 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/Readline/HoaConsoleTest.php on line 16
+[07-Dec-2018 17:07:34 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/Readline/LibeditTest.php on line 16
+[07-Dec-2018 17:07:44 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/test/Readline/TransientTest.php on line 16

@@ -1,0 +1,3 @@
+[07-Dec-2018 07:59:20 America/New_York] PHP Fatal error:  Interface 'Illuminate\Contracts\Bus\Dispatcher' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Contracts/Bus/QueueingDispatcher.php on line 5
+[08-Dec-2018 01:50:48 America/New_York] PHP Fatal error:  Interface 'Illuminate\Contracts\Bus\Dispatcher' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Contracts/Bus/QueueingDispatcher.php on line 5
+[08-Dec-2018 15:43:18 America/New_York] PHP Fatal error:  Interface 'Illuminate\Contracts\Bus\Dispatcher' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Contracts/Bus/QueueingDispatcher.php on line 5

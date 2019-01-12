@@ -1,0 +1,4 @@
+[05-Dec-2018 20:37:11 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/choizmfm/livebeds.com/demo/app/Http/Controllers/Notification/NotificationController.php on line 15
+[06-Dec-2018 01:07:18 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/choizmfm/livebeds.com/demo/app/Http/Controllers/Notification/NotificationController.php on line 15
+[06-Dec-2018 11:41:22 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/choizmfm/livebeds.com/demo/app/Http/Controllers/Notification/NotificationController.php on line 15
+[07-Jan-2019 11:39:28 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/choizmfm/livebeds.com/demo/app/Http/Controllers/Notification/NotificationController.php on line 15

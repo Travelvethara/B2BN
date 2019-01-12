@@ -1,0 +1,8 @@
+[05-Dec-2018 22:51:06 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Finder\Tests\Iterator\RealIteratorTestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/finder/Tests/FinderTest.php on line 16
+[05-Dec-2018 22:51:15 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/finder/Tests/GlobTest.php on line 18
+[06-Dec-2018 10:36:51 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Finder\Tests\Iterator\RealIteratorTestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/finder/Tests/FinderTest.php on line 16
+[06-Dec-2018 10:39:21 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/finder/Tests/GlobTest.php on line 18
+[06-Dec-2018 23:44:02 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Finder\Tests\Iterator\RealIteratorTestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/finder/Tests/FinderTest.php on line 16
+[06-Dec-2018 23:48:41 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/finder/Tests/GlobTest.php on line 18
+[07-Jan-2019 16:38:12 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Finder\Tests\Iterator\RealIteratorTestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/finder/Tests/FinderTest.php on line 16
+[07-Jan-2019 16:38:27 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/finder/Tests/GlobTest.php on line 18

@@ -1,0 +1,6 @@
+[06-Dec-2018 11:31:55 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/var-dumper/Tests/Dumper/CliDumperTest.php on line 24
+[06-Dec-2018 11:31:59 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/var-dumper/Tests/Dumper/HtmlDumperTest.php on line 21
+[07-Dec-2018 02:34:45 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/var-dumper/Tests/Dumper/CliDumperTest.php on line 24
+[07-Dec-2018 02:34:51 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/var-dumper/Tests/Dumper/HtmlDumperTest.php on line 21
+[07-Dec-2018 21:28:52 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/var-dumper/Tests/Dumper/CliDumperTest.php on line 24
+[07-Dec-2018 21:28:58 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/var-dumper/Tests/Dumper/HtmlDumperTest.php on line 21

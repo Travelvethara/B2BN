@@ -1,0 +1,40 @@
+[05-Dec-2018 14:05:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/choizmfm/livebeds.com/demo/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/bootstrap/app.php on line 14
+[05-Dec-2018 15:34:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/choizmfm/livebeds.com/demo/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/bootstrap/app.php on line 14
+[05-Dec-2018 17:50:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/choizmfm/livebeds.com/demo/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/bootstrap/app.php on line 14
+[14-Dec-2018 18:15:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/choizmfm/livebeds.com/demo/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/bootstrap/app.php on line 14
+[20-Dec-2018 22:37:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/choizmfm/livebeds.com/demo/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/bootstrap/app.php on line 14
+[21-Dec-2018 10:57:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/choizmfm/livebeds.com/demo/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/bootstrap/app.php on line 14
+[30-Dec-2018 07:29:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/choizmfm/livebeds.com/demo/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/bootstrap/app.php on line 14
+[05-Jan-2019 19:17:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/choizmfm/livebeds.com/demo/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/bootstrap/app.php on line 14
+[06-Jan-2019 05:34:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/choizmfm/livebeds.com/demo/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/bootstrap/app.php on line 14
+[06-Jan-2019 20:40:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/choizmfm/livebeds.com/demo/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/bootstrap/app.php on line 14

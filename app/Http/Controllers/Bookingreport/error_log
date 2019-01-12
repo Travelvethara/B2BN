@@ -1,0 +1,4 @@
+[05-Dec-2018 20:36:02 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/choizmfm/livebeds.com/demo/app/Http/Controllers/Bookingreport/BookingreportController.php on line 19
+[06-Dec-2018 01:40:03 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/choizmfm/livebeds.com/demo/app/Http/Controllers/Bookingreport/BookingreportController.php on line 19
+[06-Dec-2018 11:40:46 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/choizmfm/livebeds.com/demo/app/Http/Controllers/Bookingreport/BookingreportController.php on line 19
+[07-Jan-2019 11:37:06 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Hotel\HotelApiController' not found in /home/choizmfm/livebeds.com/demo/app/Http/Controllers/Bookingreport/BookingreportController.php on line 20

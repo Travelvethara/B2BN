@@ -1,0 +1,36 @@
+[05-Dec-2018 15:42:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/choizmfm/livebeds.com/demo/resources/views/dashBoard.blade.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/dashBoard.blade.php on line 59
+[05-Dec-2018 15:42:45 America/New_York] PHP Notice:  Undefined variable: i in /home/choizmfm/livebeds.com/demo/resources/views/home.blade.php on line 108
+[05-Dec-2018 17:58:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/choizmfm/livebeds.com/demo/resources/views/dashBoard.blade.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/dashBoard.blade.php on line 59
+[05-Dec-2018 20:45:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/choizmfm/livebeds.com/demo/resources/views/dashBoard.blade.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/dashBoard.blade.php on line 59
+[14-Dec-2018 18:25:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/choizmfm/livebeds.com/demo/resources/views/dashBoard.blade.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/dashBoard.blade.php on line 59
+[14-Dec-2018 18:25:39 America/New_York] PHP Notice:  Undefined variable: i in /home/choizmfm/livebeds.com/demo/resources/views/home.blade.php on line 108
+[21-Dec-2018 11:08:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/choizmfm/livebeds.com/demo/resources/views/dashBoard.blade.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/dashBoard.blade.php on line 59
+[21-Dec-2018 11:09:11 America/New_York] PHP Notice:  Undefined variable: i in /home/choizmfm/livebeds.com/demo/resources/views/home.blade.php on line 108
+[06-Jan-2019 05:37:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/choizmfm/livebeds.com/demo/resources/views/dashBoard.blade.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/dashBoard.blade.php on line 59
+[06-Jan-2019 05:37:20 America/New_York] PHP Notice:  Undefined variable: i in /home/choizmfm/livebeds.com/demo/resources/views/home.blade.php on line 108
+[06-Jan-2019 20:46:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/choizmfm/livebeds.com/demo/resources/views/dashBoard.blade.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/dashBoard.blade.php on line 59
+[07-Jan-2019 11:46:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/choizmfm/livebeds.com/demo/resources/views/dashBoard.blade.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/dashBoard.blade.php on line 59

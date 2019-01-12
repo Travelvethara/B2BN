@@ -1,0 +1,4 @@
+[06-Dec-2018 07:42:29 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/DependencyInjection/AddConsoleCommandPassTest.php on line 23
+[06-Dec-2018 22:58:21 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/DependencyInjection/AddConsoleCommandPassTest.php on line 23
+[07-Dec-2018 17:48:05 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/DependencyInjection/AddConsoleCommandPassTest.php on line 23
+[08-Dec-2018 14:37:03 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/DependencyInjection/AddConsoleCommandPassTest.php on line 23

@@ -1,0 +1,15 @@
+[07-Dec-2018 04:13:45 America/New_York] PHP Fatal error:  Class 'Faker\Provider\Address' not found in /home/choizmfm/livebeds.com/demo/vendor/fzaninotto/faker/src/Faker/Provider/nb_NO/Address.php on line 5
+[07-Dec-2018 04:13:49 America/New_York] PHP Fatal error:  Class 'Faker\Provider\Company' not found in /home/choizmfm/livebeds.com/demo/vendor/fzaninotto/faker/src/Faker/Provider/nb_NO/Company.php on line 5
+[07-Dec-2018 04:13:51 America/New_York] PHP Fatal error:  Class 'Faker\Provider\Payment' not found in /home/choizmfm/livebeds.com/demo/vendor/fzaninotto/faker/src/Faker/Provider/nb_NO/Payment.php on line 5
+[07-Dec-2018 04:13:55 America/New_York] PHP Fatal error:  Class 'Faker\Provider\Person' not found in /home/choizmfm/livebeds.com/demo/vendor/fzaninotto/faker/src/Faker/Provider/nb_NO/Person.php on line 5
+[07-Dec-2018 04:13:59 America/New_York] PHP Fatal error:  Class 'Faker\Provider\PhoneNumber' not found in /home/choizmfm/livebeds.com/demo/vendor/fzaninotto/faker/src/Faker/Provider/nb_NO/PhoneNumber.php on line 5
+[07-Dec-2018 22:15:34 America/New_York] PHP Fatal error:  Class 'Faker\Provider\Address' not found in /home/choizmfm/livebeds.com/demo/vendor/fzaninotto/faker/src/Faker/Provider/nb_NO/Address.php on line 5
+[07-Dec-2018 22:15:37 America/New_York] PHP Fatal error:  Class 'Faker\Provider\Company' not found in /home/choizmfm/livebeds.com/demo/vendor/fzaninotto/faker/src/Faker/Provider/nb_NO/Company.php on line 5
+[07-Dec-2018 22:15:50 America/New_York] PHP Fatal error:  Class 'Faker\Provider\Payment' not found in /home/choizmfm/livebeds.com/demo/vendor/fzaninotto/faker/src/Faker/Provider/nb_NO/Payment.php on line 5
+[07-Dec-2018 22:15:54 America/New_York] PHP Fatal error:  Class 'Faker\Provider\Person' not found in /home/choizmfm/livebeds.com/demo/vendor/fzaninotto/faker/src/Faker/Provider/nb_NO/Person.php on line 5
+[07-Dec-2018 22:15:58 America/New_York] PHP Fatal error:  Class 'Faker\Provider\PhoneNumber' not found in /home/choizmfm/livebeds.com/demo/vendor/fzaninotto/faker/src/Faker/Provider/nb_NO/PhoneNumber.php on line 5
+[08-Dec-2018 15:08:49 America/New_York] PHP Fatal error:  Class 'Faker\Provider\Address' not found in /home/choizmfm/livebeds.com/demo/vendor/fzaninotto/faker/src/Faker/Provider/nb_NO/Address.php on line 5
+[08-Dec-2018 15:08:56 America/New_York] PHP Fatal error:  Class 'Faker\Provider\Company' not found in /home/choizmfm/livebeds.com/demo/vendor/fzaninotto/faker/src/Faker/Provider/nb_NO/Company.php on line 5
+[08-Dec-2018 15:09:09 America/New_York] PHP Fatal error:  Class 'Faker\Provider\Payment' not found in /home/choizmfm/livebeds.com/demo/vendor/fzaninotto/faker/src/Faker/Provider/nb_NO/Payment.php on line 5
+[08-Dec-2018 15:09:15 America/New_York] PHP Fatal error:  Class 'Faker\Provider\Person' not found in /home/choizmfm/livebeds.com/demo/vendor/fzaninotto/faker/src/Faker/Provider/nb_NO/Person.php on line 5
+[08-Dec-2018 15:09:22 America/New_York] PHP Fatal error:  Class 'Faker\Provider\PhoneNumber' not found in /home/choizmfm/livebeds.com/demo/vendor/fzaninotto/faker/src/Faker/Provider/nb_NO/PhoneNumber.php on line 5

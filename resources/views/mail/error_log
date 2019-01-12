@@ -1,0 +1,9 @@
+[05-Dec-2018 18:01:50 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/choizmfm/livebeds.com/demo/resources/views/mail/UserController.php on line 31
+[05-Dec-2018 20:51:58 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/choizmfm/livebeds.com/demo/resources/views/mail/UserController.php on line 31
+[06-Dec-2018 01:14:01 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/choizmfm/livebeds.com/demo/resources/views/mail/UserController.php on line 31
+[06-Jan-2019 20:48:50 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/choizmfm/livebeds.com/demo/resources/views/mail/UserController.php on line 31
+[06-Jan-2019 20:48:59 America/New_York] PHP Notice:  Undefined variable: id in /home/choizmfm/livebeds.com/demo/resources/views/mail/Usercreate.blade.php on line 61
+[06-Jan-2019 20:48:59 America/New_York] PHP Notice:  Undefined variable: us in /home/choizmfm/livebeds.com/demo/resources/views/mail/Usercreate.blade.php on line 61
+[06-Jan-2019 20:49:26 America/New_York] PHP Notice:  Undefined variable: id in /home/choizmfm/livebeds.com/demo/resources/views/mail/createagencymail.blade.php on line 50
+[06-Jan-2019 20:49:26 America/New_York] PHP Notice:  Undefined variable: us in /home/choizmfm/livebeds.com/demo/resources/views/mail/createagencymail.blade.php on line 50
+[07-Jan-2019 11:48:04 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/choizmfm/livebeds.com/demo/resources/views/mail/UserController.php on line 31

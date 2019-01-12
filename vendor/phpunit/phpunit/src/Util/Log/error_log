@@ -1,0 +1,12 @@
+[07-Dec-2018 16:16:55 America/New_York] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/src/Util/Log/JSON.php on line 14
+[07-Dec-2018 16:17:01 America/New_York] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/src/Util/Log/JUnit.php on line 16
+[07-Dec-2018 16:17:05 America/New_York] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/src/Util/Log/TAP.php on line 15
+[07-Dec-2018 16:17:09 America/New_York] PHP Fatal error:  Class 'PHPUnit_TextUI_ResultPrinter' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/src/Util/Log/TeamCity.php on line 17
+[08-Dec-2018 09:51:08 America/New_York] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/src/Util/Log/JSON.php on line 14
+[08-Dec-2018 09:51:15 America/New_York] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/src/Util/Log/JUnit.php on line 16
+[08-Dec-2018 09:51:20 America/New_York] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/src/Util/Log/TAP.php on line 15
+[08-Dec-2018 09:51:24 America/New_York] PHP Fatal error:  Class 'PHPUnit_TextUI_ResultPrinter' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/src/Util/Log/TeamCity.php on line 17
+[08-Dec-2018 19:18:28 America/New_York] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/src/Util/Log/JSON.php on line 14
+[08-Dec-2018 19:18:33 America/New_York] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/src/Util/Log/JUnit.php on line 16
+[08-Dec-2018 19:18:38 America/New_York] PHP Fatal error:  Class 'PHPUnit_Util_Printer' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/src/Util/Log/TAP.php on line 15
+[08-Dec-2018 19:18:41 America/New_York] PHP Fatal error:  Class 'PHPUnit_TextUI_ResultPrinter' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/src/Util/Log/TeamCity.php on line 17

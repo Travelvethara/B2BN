@@ -1,0 +1,5 @@
+[05-Dec-2018 18:40:56 America/New_York] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/BufferingLogger.php on line 21
+[05-Dec-2018 22:39:52 America/New_York] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/BufferingLogger.php on line 21
+[06-Dec-2018 10:25:59 America/New_York] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/BufferingLogger.php on line 21
+[06-Jan-2019 21:41:52 America/New_York] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/BufferingLogger.php on line 21
+[07-Jan-2019 16:26:43 America/New_York] PHP Fatal error:  Class 'Psr\Log\AbstractLogger' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/debug/BufferingLogger.php on line 21

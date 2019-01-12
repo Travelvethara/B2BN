@@ -1,0 +1,160 @@
+[05-Dec-2018 14:10:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/choizmfm/livebeds.com/demo/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/api.php on line 16
+[05-Dec-2018 14:10:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/choizmfm/livebeds.com/demo/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/channels.php on line 14
+[05-Dec-2018 14:10:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/choizmfm/livebeds.com/demo/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/console.php on line 16
+[05-Dec-2018 14:10:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/choizmfm/livebeds.com/demo/routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/web.php on line 14
+[05-Dec-2018 15:45:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/choizmfm/livebeds.com/demo/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/api.php on line 16
+[05-Dec-2018 15:45:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/choizmfm/livebeds.com/demo/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/channels.php on line 14
+[05-Dec-2018 15:45:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/choizmfm/livebeds.com/demo/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/console.php on line 16
+[05-Dec-2018 15:45:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/choizmfm/livebeds.com/demo/routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/web.php on line 14
+[05-Dec-2018 17:48:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/choizmfm/livebeds.com/demo/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/api.php on line 16
+[05-Dec-2018 17:48:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/choizmfm/livebeds.com/demo/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/channels.php on line 14
+[05-Dec-2018 17:48:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/choizmfm/livebeds.com/demo/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/console.php on line 16
+[05-Dec-2018 17:48:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/choizmfm/livebeds.com/demo/routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/web.php on line 14
+[14-Dec-2018 18:17:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/choizmfm/livebeds.com/demo/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/api.php on line 16
+[14-Dec-2018 18:17:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/choizmfm/livebeds.com/demo/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/channels.php on line 14
+[14-Dec-2018 18:17:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/choizmfm/livebeds.com/demo/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/console.php on line 16
+[14-Dec-2018 18:17:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/choizmfm/livebeds.com/demo/routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/web.php on line 14
+[20-Dec-2018 22:27:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/choizmfm/livebeds.com/demo/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/api.php on line 16
+[20-Dec-2018 22:27:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/choizmfm/livebeds.com/demo/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/channels.php on line 14
+[20-Dec-2018 22:27:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/choizmfm/livebeds.com/demo/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/console.php on line 16
+[20-Dec-2018 22:28:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/choizmfm/livebeds.com/demo/routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/web.php on line 14
+[21-Dec-2018 11:11:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/choizmfm/livebeds.com/demo/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/api.php on line 16
+[21-Dec-2018 11:11:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/choizmfm/livebeds.com/demo/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/channels.php on line 14
+[21-Dec-2018 11:11:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/choizmfm/livebeds.com/demo/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/console.php on line 16
+[21-Dec-2018 11:11:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/choizmfm/livebeds.com/demo/routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/web.php on line 14
+[30-Dec-2018 07:30:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/choizmfm/livebeds.com/demo/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/api.php on line 16
+[30-Dec-2018 07:30:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/choizmfm/livebeds.com/demo/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/channels.php on line 14
+[30-Dec-2018 07:30:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/choizmfm/livebeds.com/demo/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/console.php on line 16
+[30-Dec-2018 07:30:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/choizmfm/livebeds.com/demo/routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/web.php on line 14
+[05-Jan-2019 19:09:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/choizmfm/livebeds.com/demo/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/api.php on line 16
+[05-Jan-2019 19:09:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/choizmfm/livebeds.com/demo/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/channels.php on line 14
+[05-Jan-2019 19:09:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/choizmfm/livebeds.com/demo/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/console.php on line 16
+[05-Jan-2019 19:09:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/choizmfm/livebeds.com/demo/routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/web.php on line 14
+[06-Jan-2019 05:37:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/choizmfm/livebeds.com/demo/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/api.php on line 16
+[06-Jan-2019 05:37:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/choizmfm/livebeds.com/demo/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/channels.php on line 14
+[06-Jan-2019 05:38:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/choizmfm/livebeds.com/demo/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/console.php on line 16
+[06-Jan-2019 05:38:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/choizmfm/livebeds.com/demo/routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/web.php on line 14
+[06-Jan-2019 20:52:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/choizmfm/livebeds.com/demo/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/api.php on line 16
+[06-Jan-2019 20:52:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/choizmfm/livebeds.com/demo/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/channels.php on line 14
+[06-Jan-2019 20:53:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/choizmfm/livebeds.com/demo/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/console.php on line 16
+[06-Jan-2019 20:53:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/choizmfm/livebeds.com/demo/routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/routes/web.php on line 14

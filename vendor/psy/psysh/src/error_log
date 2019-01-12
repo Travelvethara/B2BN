@@ -1,0 +1,4 @@
+[05-Dec-2018 21:40:08 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Console\Application' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/src/Shell.php on line 48
+[06-Dec-2018 06:24:26 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Console\Application' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/src/Shell.php on line 48
+[06-Dec-2018 21:44:44 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Console\Application' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/src/Shell.php on line 48
+[07-Jan-2019 13:23:08 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Console\Application' not found in /home/choizmfm/livebeds.com/demo/vendor/psy/psysh/src/Shell.php on line 48

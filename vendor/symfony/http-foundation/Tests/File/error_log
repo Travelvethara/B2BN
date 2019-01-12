@@ -1,0 +1,9 @@
+[06-Dec-2018 10:04:11 America/New_York] PHP Fatal error:  Class 'Symfony\Component\HttpFoundation\File\File' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/http-foundation/Tests/File/FakeFile.php on line 16
+[06-Dec-2018 10:04:15 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/http-foundation/Tests/File/FileTest.php on line 18
+[06-Dec-2018 10:04:28 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/http-foundation/Tests/File/UploadedFileTest.php on line 17
+[07-Dec-2018 00:00:34 America/New_York] PHP Fatal error:  Class 'Symfony\Component\HttpFoundation\File\File' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/http-foundation/Tests/File/FakeFile.php on line 16
+[07-Dec-2018 00:00:40 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/http-foundation/Tests/File/FileTest.php on line 18
+[07-Dec-2018 00:02:13 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/http-foundation/Tests/File/UploadedFileTest.php on line 17
+[07-Dec-2018 21:09:58 America/New_York] PHP Fatal error:  Class 'Symfony\Component\HttpFoundation\File\File' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/http-foundation/Tests/File/FakeFile.php on line 16
+[07-Dec-2018 21:10:05 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/http-foundation/Tests/File/FileTest.php on line 18
+[07-Dec-2018 21:11:42 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/http-foundation/Tests/File/UploadedFileTest.php on line 17

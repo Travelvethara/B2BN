@@ -1,0 +1,12 @@
+[06-Dec-2018 10:00:35 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Output/ConsoleOutputTest.php on line 19
+[06-Dec-2018 10:00:41 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Output/NullOutputTest.php on line 20
+[06-Dec-2018 10:00:49 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Output/OutputTest.php on line 18
+[06-Dec-2018 10:01:24 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Output/StreamOutputTest.php on line 18
+[06-Dec-2018 23:11:16 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Output/ConsoleOutputTest.php on line 19
+[06-Dec-2018 23:11:23 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Output/NullOutputTest.php on line 20
+[06-Dec-2018 23:11:29 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Output/OutputTest.php on line 18
+[06-Dec-2018 23:11:40 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Output/StreamOutputTest.php on line 18
+[07-Dec-2018 17:53:00 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Output/ConsoleOutputTest.php on line 19
+[07-Dec-2018 17:53:03 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Output/NullOutputTest.php on line 20
+[07-Dec-2018 17:53:07 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Output/OutputTest.php on line 18
+[07-Dec-2018 17:53:11 America/New_York] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/console/Tests/Output/StreamOutputTest.php on line 18

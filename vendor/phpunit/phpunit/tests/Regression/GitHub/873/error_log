@@ -1,0 +1,12 @@
+[07-Dec-2018 16:29:12 America/New_York] PHP Fatal error:  Uncaught Exception: PHPUnit suppresses exceptions thrown outside of test case function in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/tests/Regression/GitHub/873/Issue873Test.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/tests/Regression/GitHub/873/Issue873Test.php on line 7
+[08-Dec-2018 10:01:32 America/New_York] PHP Fatal error:  Uncaught Exception: PHPUnit suppresses exceptions thrown outside of test case function in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/tests/Regression/GitHub/873/Issue873Test.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/tests/Regression/GitHub/873/Issue873Test.php on line 7
+[08-Dec-2018 19:24:54 America/New_York] PHP Fatal error:  Uncaught Exception: PHPUnit suppresses exceptions thrown outside of test case function in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/tests/Regression/GitHub/873/Issue873Test.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/tests/Regression/GitHub/873/Issue873Test.php on line 7

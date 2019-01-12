@@ -1,0 +1,6 @@
+[06-Dec-2018 05:29:39 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/tests/Extensions/PhptTestCaseTest.php on line 11
+[06-Dec-2018 05:29:45 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/tests/Extensions/RepeatedTestTest.php on line 11
+[06-Dec-2018 21:34:55 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/tests/Extensions/PhptTestCaseTest.php on line 11
+[06-Dec-2018 21:34:59 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/tests/Extensions/RepeatedTestTest.php on line 11
+[07-Dec-2018 16:18:58 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/tests/Extensions/PhptTestCaseTest.php on line 11
+[07-Dec-2018 16:19:02 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/phpunit/phpunit/tests/Extensions/RepeatedTestTest.php on line 11

@@ -1,0 +1,4 @@
+[05-Dec-2018 20:34:56 America/New_York] PHP Notice:  Undefined variable: level in /home/choizmfm/livebeds.com/demo/resources/views/vendor/notifications/email.blade.php on line 23
+[05-Dec-2018 20:34:56 America/New_York] PHP Notice:  Undefined variable: level in /home/choizmfm/livebeds.com/demo/resources/views/vendor/notifications/email.blade.php on line 26
+[07-Jan-2019 11:52:55 America/New_York] PHP Notice:  Undefined variable: level in /home/choizmfm/livebeds.com/demo/resources/views/vendor/notifications/email.blade.php on line 23
+[07-Jan-2019 11:52:55 America/New_York] PHP Notice:  Undefined variable: level in /home/choizmfm/livebeds.com/demo/resources/views/vendor/notifications/email.blade.php on line 26

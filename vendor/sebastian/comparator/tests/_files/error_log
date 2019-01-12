@@ -1,0 +1,3 @@
+[06-Dec-2018 06:58:34 America/New_York] PHP Fatal error:  Class 'SebastianBergmann\Comparator\ObjectComparator' not found in /home/choizmfm/livebeds.com/demo/vendor/sebastian/comparator/tests/_files/TestClassComparator.php on line 13
+[06-Dec-2018 22:20:25 America/New_York] PHP Fatal error:  Class 'SebastianBergmann\Comparator\ObjectComparator' not found in /home/choizmfm/livebeds.com/demo/vendor/sebastian/comparator/tests/_files/TestClassComparator.php on line 13
+[07-Dec-2018 17:16:02 America/New_York] PHP Fatal error:  Class 'SebastianBergmann\Comparator\ObjectComparator' not found in /home/choizmfm/livebeds.com/demo/vendor/sebastian/comparator/tests/_files/TestClassComparator.php on line 13

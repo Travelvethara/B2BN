@@ -1,0 +1,3 @@
+[06-Dec-2018 17:14:02 America/New_York] PHP Fatal error:  Class 'Prophecy\Doubler\Doubler' not found in /home/choizmfm/livebeds.com/demo/vendor/phpspec/prophecy/src/Prophecy/Doubler/CachedDoubler.php on line 22
+[07-Dec-2018 13:29:39 America/New_York] PHP Fatal error:  Class 'Prophecy\Doubler\Doubler' not found in /home/choizmfm/livebeds.com/demo/vendor/phpspec/prophecy/src/Prophecy/Doubler/CachedDoubler.php on line 22
+[08-Dec-2018 06:49:14 America/New_York] PHP Fatal error:  Class 'Prophecy\Doubler\Doubler' not found in /home/choizmfm/livebeds.com/demo/vendor/phpspec/prophecy/src/Prophecy/Doubler/CachedDoubler.php on line 22

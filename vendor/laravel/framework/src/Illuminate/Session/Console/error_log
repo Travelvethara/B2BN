@@ -1,0 +1,3 @@
+[07-Dec-2018 12:12:16 America/New_York] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Session/Console/SessionTableCommand.php on line 9
+[08-Dec-2018 05:37:09 America/New_York] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Session/Console/SessionTableCommand.php on line 9
+[08-Dec-2018 16:08:23 America/New_York] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home/choizmfm/livebeds.com/demo/vendor/laravel/framework/src/Illuminate/Session/Console/SessionTableCommand.php on line 9

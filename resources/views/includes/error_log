@@ -1,0 +1,40 @@
+[05-Dec-2018 18:00:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/choizmfm/livebeds.com/demo/resources/views/includes/header.blade.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/includes/header.blade.php on line 44
+[05-Dec-2018 18:00:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/choizmfm/livebeds.com/demo/resources/views/includes/menu.blade.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/includes/menu.blade.php on line 8
+[05-Dec-2018 20:48:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/choizmfm/livebeds.com/demo/resources/views/includes/header.blade.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/includes/header.blade.php on line 44
+[05-Dec-2018 20:48:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/choizmfm/livebeds.com/demo/resources/views/includes/menu.blade.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/includes/menu.blade.php on line 8
+[06-Dec-2018 01:13:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/choizmfm/livebeds.com/demo/resources/views/includes/header.blade.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/includes/header.blade.php on line 44
+[06-Dec-2018 01:13:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/choizmfm/livebeds.com/demo/resources/views/includes/menu.blade.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/includes/menu.blade.php on line 8
+[06-Jan-2019 20:48:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/choizmfm/livebeds.com/demo/resources/views/includes/header.blade.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/includes/header.blade.php on line 44
+[06-Jan-2019 20:48:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/choizmfm/livebeds.com/demo/resources/views/includes/menu.blade.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/includes/menu.blade.php on line 8
+[07-Jan-2019 11:47:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/choizmfm/livebeds.com/demo/resources/views/includes/header.blade.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/includes/header.blade.php on line 44
+[07-Jan-2019 11:47:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/choizmfm/livebeds.com/demo/resources/views/includes/menu.blade.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/resources/views/includes/menu.blade.php on line 8

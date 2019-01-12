@@ -1,0 +1,9 @@
+[07-Dec-2018 07:16:40 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/fzaninotto/faker/test/Faker/Provider/fr_CH/AddressTest.php on line 9
+[07-Dec-2018 07:16:44 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/fzaninotto/faker/test/Faker/Provider/fr_CH/InternetTest.php on line 10
+[07-Dec-2018 07:16:53 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/fzaninotto/faker/test/Faker/Provider/fr_CH/PhoneNumberTest.php on line 8
+[08-Dec-2018 01:09:19 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/fzaninotto/faker/test/Faker/Provider/fr_CH/AddressTest.php on line 9
+[08-Dec-2018 01:09:23 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/fzaninotto/faker/test/Faker/Provider/fr_CH/InternetTest.php on line 10
+[08-Dec-2018 01:11:27 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/fzaninotto/faker/test/Faker/Provider/fr_CH/PhoneNumberTest.php on line 8
+[08-Dec-2018 15:33:34 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/fzaninotto/faker/test/Faker/Provider/fr_CH/AddressTest.php on line 9
+[08-Dec-2018 15:33:39 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/fzaninotto/faker/test/Faker/Provider/fr_CH/InternetTest.php on line 10
+[08-Dec-2018 15:33:43 America/New_York] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/choizmfm/livebeds.com/demo/vendor/fzaninotto/faker/test/Faker/Provider/fr_CH/PhoneNumberTest.php on line 8

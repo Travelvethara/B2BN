@@ -1,0 +1,6 @@
+[05-Dec-2018 23:11:11 America/New_York] PHP Notice:  Undefined variable: version in /home/choizmfm/livebeds.com/demo/vendor/symfony/http-kernel/Resources/welcome.html.php on line 39
+[05-Dec-2018 23:11:11 America/New_York] PHP Notice:  Undefined variable: baseDir in /home/choizmfm/livebeds.com/demo/vendor/symfony/http-kernel/Resources/welcome.html.php on line 47
+[05-Dec-2018 23:11:11 America/New_York] PHP Notice:  Undefined variable: docVersion in /home/choizmfm/livebeds.com/demo/vendor/symfony/http-kernel/Resources/welcome.html.php on line 71
+[07-Jan-2019 16:38:11 America/New_York] PHP Notice:  Undefined variable: version in /home/choizmfm/livebeds.com/demo/vendor/symfony/http-kernel/Resources/welcome.html.php on line 39
+[07-Jan-2019 16:38:11 America/New_York] PHP Notice:  Undefined variable: baseDir in /home/choizmfm/livebeds.com/demo/vendor/symfony/http-kernel/Resources/welcome.html.php on line 47
+[07-Jan-2019 16:38:11 America/New_York] PHP Notice:  Undefined variable: docVersion in /home/choizmfm/livebeds.com/demo/vendor/symfony/http-kernel/Resources/welcome.html.php on line 71

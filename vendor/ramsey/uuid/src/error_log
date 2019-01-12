@@ -1,0 +1,12 @@
+[05-Dec-2018 21:47:22 America/New_York] PHP Fatal error:  Class 'Ramsey\Uuid\Uuid' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/DegradedUuid.php on line 25
+[05-Dec-2018 21:48:00 America/New_York] PHP Fatal error:  Interface 'Ramsey\Uuid\UuidInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/Uuid.php on line 37
+[05-Dec-2018 21:48:04 America/New_York] PHP Fatal error:  Interface 'Ramsey\Uuid\UuidFactoryInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/UuidFactory.php on line 24
+[06-Dec-2018 06:45:34 America/New_York] PHP Fatal error:  Class 'Ramsey\Uuid\Uuid' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/DegradedUuid.php on line 25
+[06-Dec-2018 06:50:06 America/New_York] PHP Fatal error:  Interface 'Ramsey\Uuid\UuidInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/Uuid.php on line 37
+[06-Dec-2018 06:50:14 America/New_York] PHP Fatal error:  Interface 'Ramsey\Uuid\UuidFactoryInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/UuidFactory.php on line 24
+[06-Dec-2018 22:11:05 America/New_York] PHP Fatal error:  Class 'Ramsey\Uuid\Uuid' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/DegradedUuid.php on line 25
+[06-Dec-2018 22:17:55 America/New_York] PHP Fatal error:  Interface 'Ramsey\Uuid\UuidInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/Uuid.php on line 37
+[06-Dec-2018 22:18:01 America/New_York] PHP Fatal error:  Interface 'Ramsey\Uuid\UuidFactoryInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/UuidFactory.php on line 24
+[07-Jan-2019 13:27:47 America/New_York] PHP Fatal error:  Class 'Ramsey\Uuid\Uuid' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/DegradedUuid.php on line 25
+[07-Jan-2019 13:28:10 America/New_York] PHP Fatal error:  Interface 'Ramsey\Uuid\UuidInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/Uuid.php on line 37
+[07-Jan-2019 13:28:24 America/New_York] PHP Fatal error:  Interface 'Ramsey\Uuid\UuidFactoryInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/UuidFactory.php on line 24

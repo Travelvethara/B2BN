@@ -1,0 +1,51 @@
+[06-Dec-2018 11:04:01 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Routing\CompiledRoute' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/routing/Tests/Fixtures/CustomCompiledRoute.php on line 16
+[06-Dec-2018 11:04:05 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Routing\RouteCompiler' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/routing/Tests/Fixtures/CustomRouteCompiler.php on line 17
+[06-Dec-2018 11:04:09 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Routing\Loader\XmlFileLoader' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/routing/Tests/Fixtures/CustomXmlFileLoader.php on line 20
+[06-Dec-2018 11:04:21 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Routing\Matcher\UrlMatcher' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/routing/Tests/Fixtures/RedirectableUrlMatcher.php on line 20
+[06-Dec-2018 11:05:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Routing\RouteCollection' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/routing/Tests/Fixtures/validpattern.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/vendor/symfony/routing/Tests/Fixtures/validpattern.php on line 6
+[06-Dec-2018 11:05:14 America/New_York] PHP Notice:  Undefined variable: loader in /home/choizmfm/livebeds.com/demo/vendor/symfony/routing/Tests/Fixtures/validresource.php on line 5
+[06-Dec-2018 11:05:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function import() on null in /home/choizmfm/livebeds.com/demo/vendor/symfony/routing/Tests/Fixtures/validresource.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/vendor/symfony/routing/Tests/Fixtures/validresource.php on line 5
+[06-Dec-2018 11:05:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Routing\RouteCollection' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/routing/Tests/Fixtures/with_define_path_variable.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/vendor/symfony/routing/Tests/Fixtures/with_define_path_variable.php on line 5
+[07-Dec-2018 02:06:08 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Routing\CompiledRoute' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/routing/Tests/Fixtures/CustomCompiledRoute.php on line 16
+[07-Dec-2018 02:06:14 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Routing\RouteCompiler' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/routing/Tests/Fixtures/CustomRouteCompiler.php on line 17
+[07-Dec-2018 02:06:18 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Routing\Loader\XmlFileLoader' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/routing/Tests/Fixtures/CustomXmlFileLoader.php on line 20
+[07-Dec-2018 02:07:09 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Routing\Matcher\UrlMatcher' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/routing/Tests/Fixtures/RedirectableUrlMatcher.php on line 20
+[07-Dec-2018 02:09:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Routing\RouteCollection' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/routing/Tests/Fixtures/validpattern.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/vendor/symfony/routing/Tests/Fixtures/validpattern.php on line 6
+[07-Dec-2018 02:09:24 America/New_York] PHP Notice:  Undefined variable: loader in /home/choizmfm/livebeds.com/demo/vendor/symfony/routing/Tests/Fixtures/validresource.php on line 5
+[07-Dec-2018 02:09:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function import() on null in /home/choizmfm/livebeds.com/demo/vendor/symfony/routing/Tests/Fixtures/validresource.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/vendor/symfony/routing/Tests/Fixtures/validresource.php on line 5
+[07-Dec-2018 02:09:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Routing\RouteCollection' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/routing/Tests/Fixtures/with_define_path_variable.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/vendor/symfony/routing/Tests/Fixtures/with_define_path_variable.php on line 5
+[07-Dec-2018 21:16:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Routing\RouteCollection' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/routing/Tests/Fixtures/validpattern.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/vendor/symfony/routing/Tests/Fixtures/validpattern.php on line 6
+[07-Dec-2018 21:16:32 America/New_York] PHP Notice:  Undefined variable: loader in /home/choizmfm/livebeds.com/demo/vendor/symfony/routing/Tests/Fixtures/validresource.php on line 5
+[07-Dec-2018 21:16:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function import() on null in /home/choizmfm/livebeds.com/demo/vendor/symfony/routing/Tests/Fixtures/validresource.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/vendor/symfony/routing/Tests/Fixtures/validresource.php on line 5
+[07-Dec-2018 21:16:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Routing\RouteCollection' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/routing/Tests/Fixtures/with_define_path_variable.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/choizmfm/livebeds.com/demo/vendor/symfony/routing/Tests/Fixtures/with_define_path_variable.php on line 5
+[07-Dec-2018 21:31:34 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Routing\CompiledRoute' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/routing/Tests/Fixtures/CustomCompiledRoute.php on line 16
+[07-Dec-2018 21:31:39 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Routing\RouteCompiler' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/routing/Tests/Fixtures/CustomRouteCompiler.php on line 17
+[07-Dec-2018 21:31:45 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Routing\Loader\XmlFileLoader' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/routing/Tests/Fixtures/CustomXmlFileLoader.php on line 20
+[07-Dec-2018 21:32:10 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Routing\Matcher\UrlMatcher' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/routing/Tests/Fixtures/RedirectableUrlMatcher.php on line 20

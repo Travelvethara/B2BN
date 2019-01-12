@@ -1,0 +1,4 @@
+[06-Dec-2018 01:02:49 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/translation/Command/XliffLintCommand.php on line 27
+[06-Dec-2018 11:10:05 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/translation/Command/XliffLintCommand.php on line 27
+[07-Dec-2018 02:13:40 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/translation/Command/XliffLintCommand.php on line 27
+[07-Jan-2019 16:49:44 America/New_York] PHP Fatal error:  Class 'Symfony\Component\Console\Command\Command' not found in /home/choizmfm/livebeds.com/demo/vendor/symfony/translation/Command/XliffLintCommand.php on line 27

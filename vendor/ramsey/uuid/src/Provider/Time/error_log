@@ -1,0 +1,6 @@
+[06-Dec-2018 22:17:43 America/New_York] PHP Fatal error:  Interface 'Ramsey\Uuid\Provider\TimeProviderInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php on line 25
+[06-Dec-2018 22:17:48 America/New_York] PHP Fatal error:  Interface 'Ramsey\Uuid\Provider\TimeProviderInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php on line 22
+[07-Dec-2018 17:14:54 America/New_York] PHP Fatal error:  Interface 'Ramsey\Uuid\Provider\TimeProviderInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php on line 25
+[07-Dec-2018 17:14:59 America/New_York] PHP Fatal error:  Interface 'Ramsey\Uuid\Provider\TimeProviderInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php on line 22
+[08-Dec-2018 10:12:46 America/New_York] PHP Fatal error:  Interface 'Ramsey\Uuid\Provider\TimeProviderInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php on line 25
+[08-Dec-2018 10:12:50 America/New_York] PHP Fatal error:  Interface 'Ramsey\Uuid\Provider\TimeProviderInterface' not found in /home/choizmfm/livebeds.com/demo/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php on line 22
