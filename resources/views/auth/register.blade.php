@@ -942,7 +942,7 @@ if (password != confirmPassword) {
         url:agencyInsertAjaxValidate,
         data:$('#signformsubmit').serialize(),
         success: function(data){
-			 
+	
 			if(data == 'ok'){
 				
 				console.log(data);
@@ -963,6 +963,13 @@ if (password != confirmPassword) {
 				  
 				
 				return false;
+				}else{
+				
+				    $('.alreadyemail').html(data);
+				    $('.alreadyemail').show();
+				    $('#email').focus();
+				
+				
 				}
 			
 			},
