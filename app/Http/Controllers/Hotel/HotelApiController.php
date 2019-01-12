@@ -220,11 +220,13 @@ curl_close($ch);
 		
         
         if(isset($_GET['pag']) && !empty($_GET['pag'])) {
-             $pag = $_GET['pag']; 
+             $start = 0;
+             $end = $_GET['pag']; 
          }else{ 
              $start = 0;
              $end = 20; 
          }
+
 		
 		$gethotels=DB::select("SELECT DISTINCT HotelId FROM gethotels WHERE CityId='".$_GET['cityid']."' LIMIT ".$start.", ".$end."");
 
