@@ -1372,8 +1372,10 @@ $finalday = $daycount;
                        @endforeach
                       @endif
                       <?php if(isset($_GET['pag']) && !empty($_GET['pag'])) { $pag = $_GET['pag']; }else{ $pag = 20; }  ?>
+                      <div class="loadmorelists text-center">
                     <button type="button" class="btn btn-primary loadmorelist" id="loadmorelist" data-num="{{$pag}}" value="{{$pag}}">Load More</button>
-                    <?php 
+                    </div>
+					<?php 
 					 /* if(!empty($hotel_tbolist_xml['HotelResultList']['HotelResult'])){
 						  
 						
@@ -1569,7 +1571,9 @@ $finalday = $daycount;
       // Run code
                        };
 					   
-					   
+			     var temp_count = $('.hotellist-result').find("li:visible").length;
+				 console.log(temp_count);
+				$('.totalresultfound').html(temp_count);
 					
 					
 				$(document).on('click', '.loadmorelist', function(){
@@ -2096,15 +2100,27 @@ $finalday = $daycount;
 			});
 			$('.fullloader').html('');
 			var totalresult = $('.hotellist-result').length;
+			
 
 			$('.totalresultfound').html(totalresult);
+			
+			var totalresult = $('.hotellist-result:not([style*="display: none"])').length;
+			$('.totalresultfound').html(totalresult);
+		
 			 var count ='';
 			$('li.hotellist-result:visible').each(function(){
+				
 		      var count = $('li.hotellist-result:visible').length;
+			  console.log(count);
 			$('.totalresultfound').html(count);
 		     });
 			
 		$('.loader-fixed').hide();
+		
+		
+		
+		
+		
 		}
 		//star
 		
